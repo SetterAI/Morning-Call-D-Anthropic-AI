@@ -1,6 +1,48 @@
 {
-  "last_run": "2026-06-18",
+  "last_run": "2026-07-10",
   "reported_items": [
+    {
+      "date_reported": "2026-07-10",
+      "id": "claude-sonnet-5-launch-1m-context",
+      "title": "Claude Sonnet 5 — 1M tokens, pricing $2/$10/Mtok até agosto",
+      "published_date": "2026-06-30",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "date_reported": "2026-07-10",
+      "id": "m365-connector-write-tools",
+      "title": "Conector Microsoft 365 com write tools — e-mail, agenda, OneDrive/SharePoint",
+      "published_date": "2026-07-07",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes"
+    },
+    {
+      "date_reported": "2026-07-10",
+      "id": "web-search-sec-filings-enriched",
+      "title": "Web search retorna dados ricos de SEC filings",
+      "published_date": "2026-07-01",
+      "url": "https://releasebot.io/updates/anthropic/claude-developer-platform"
+    },
+    {
+      "date_reported": "2026-07-10",
+      "id": "fable5-mythos5-restored-model-entitlements-enterprise",
+      "title": "Fable 5 + Mythos 5 restabelecidos + Model Entitlements no Enterprise",
+      "published_date": "2026-07-01",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes"
+    },
+    {
+      "date_reported": "2026-07-10",
+      "id": "claude-cowork-web-mobile-beta",
+      "title": "Claude Cowork expandido para web e mobile",
+      "published_date": "2026-07-07",
+      "url": "https://9to5mac.com/2026/07/07/anthropic-expanding-claude-cowork-to-mobile-and-web-details-here/"
+    },
+    {
+      "date_reported": "2026-07-10",
+      "id": "mcp-spec-2026-07-28-rc-stateless",
+      "title": "MCP Spec 2026-07-28 RC — protocolo stateless + Tasks extension + MCP Apps",
+      "published_date": "2026-07-09",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/"
+    },
     {
       "date_reported": "2026-06-18",
       "id": "claude-design-v2-system-import-enterprise-admin",
