@@ -1,6 +1,48 @@
 {
-  "last_run": "2026-06-18",
+  "last_run": "2026-07-13",
   "reported_items": [
+    {
+      "date_reported": "2026-07-13",
+      "id": "grok-4-5-xai-launch",
+      "title": "Grok 4.5 (xAI) lançado",
+      "published_date": "2026-07-08",
+      "url": "https://llm-stats.com/llm-updates"
+    },
+    {
+      "date_reported": "2026-07-13",
+      "id": "mcp-spec-2026-07-28-rc-stateless-tasks-sdks",
+      "title": "MCP Spec 2026-07-28 RC — stateless, Tasks extension, SDKs beta",
+      "published_date": "2026-07-01",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/"
+    },
+    {
+      "date_reported": "2026-07-13",
+      "id": "enterprise-model-entitlements-fable5-mythos5",
+      "title": "Enterprise model entitlements + acesso a Fable 5 e Mythos 5 restaurado",
+      "published_date": "2026-07-01",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes"
+    },
+    {
+      "date_reported": "2026-07-13",
+      "id": "claude-tag-slack-team-enterprise",
+      "title": "Claude Tag para Slack — Teams e Enterprise",
+      "published_date": "2026-06-23",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "date_reported": "2026-07-13",
+      "id": "cowork-web-mobile-m365-write-tools",
+      "title": "Cowork no web e mobile + Microsoft 365 write tools",
+      "published_date": "2026-07-07",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes"
+    },
+    {
+      "date_reported": "2026-07-13",
+      "id": "claude-sonnet-5-launch-1m-context",
+      "title": "Claude Sonnet 5 — 1M tokens de contexto, padrão no Claude Code",
+      "published_date": "2026-06-30",
+      "url": "https://www.anthropic.com/news"
+    },
     {
       "date_reported": "2026-06-18",
       "id": "claude-design-v2-system-import-enterprise-admin",
