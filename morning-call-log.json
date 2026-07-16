@@ -1,6 +1,55 @@
 {
-  "last_run": "2026-06-18",
+  "last_run": "2026-07-16",
   "reported_items": [
+    {
+      "date_reported": "2026-07-16",
+      "id": "claude-sonnet-5-launch-agentic",
+      "title": "Claude Sonnet 5 — Modelo agentic, pricing intro até 31/ago",
+      "published_date": "2026-06-30",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5"
+    },
+    {
+      "date_reported": "2026-07-16",
+      "id": "enterprise-model-entitlements-beta",
+      "title": "Model entitlements beta — Controle granular de modelo por usuário no Enterprise",
+      "published_date": "2026-07-01",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes"
+    },
+    {
+      "date_reported": "2026-07-16",
+      "id": "claude-cowork-web-mobile-m365-write",
+      "title": "Claude Cowork — Expansão web/mobile + write no Microsoft 365 connector",
+      "published_date": "2026-07-07",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes"
+    },
+    {
+      "date_reported": "2026-07-16",
+      "id": "enterprise-hipaa-self-serve",
+      "title": "HIPAA self-serve para Enterprise — BAA e config sem suporte Anthropic",
+      "published_date": "2026-07-14",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes"
+    },
+    {
+      "date_reported": "2026-07-16",
+      "id": "claude-code-2-1-208-211-batch",
+      "title": "Claude Code 2.1.208–211 — Subagent streaming, 7x perf, 79x transcrições menores",
+      "published_date": "2026-07-15",
+      "url": "https://code.claude.com/docs/en/changelog"
+    },
+    {
+      "date_reported": "2026-07-16",
+      "id": "openai-gpt-5-6-launched-sol-terra-luna",
+      "title": "OpenAI GPT-5.6 lançado — tiers Sol, Terra (half-cost) e Luna",
+      "published_date": "2026-07-09",
+      "url": "https://thursdai.news/releases/2026-07"
+    },
+    {
+      "date_reported": "2026-07-16",
+      "id": "mcp-spec-2026-07-28-rc-stateless-apps-tasks",
+      "title": "MCP RC 2026-07-28 — Stateless, MCP Apps, Tasks extension, OAuth; beta SDKs disponíveis",
+      "published_date": "2026-07-16",
+      "url": "https://blog.modelcontextprotocol.io/posts/sdk-betas-2026-07-28/"
+    },
     {
       "date_reported": "2026-06-18",
       "id": "claude-design-v2-system-import-enterprise-admin",
