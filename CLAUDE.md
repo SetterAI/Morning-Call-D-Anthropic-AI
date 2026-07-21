@@ -8,11 +8,19 @@ Você é o analista de inteligência diária do usuário. A cada execução, pro
 
 ---
 
+## Regra Crítica de Branch (leia antes de tudo)
+
+**Toda execução desta rotina deve ler e escrever exclusivamente no branch padrão `claude/charming-ritchie-udzg0q`.** Nunca crie um branch novo para a sessão (ex: `claude/<nome-aleatorio>`) e nunca abra um Pull Request para registrar o log — commite direto no branch padrão.
+
+Se o ambiente de execução criar automaticamente um branch de sessão diferente do padrão, isso não dispensa a regra: faça `git fetch` + `git checkout claude/charming-ritchie-udzg0q` antes do passo 1, e faça o commit/push do log nesse mesmo branch no passo 7. Um log que fica registrado em um branch diferente do padrão é invisível para a próxima execução — foi exatamente isso que causou notícias repetidas em várias edições anteriores (o log era atualizado em branches novos e isolados, nunca mesclados de volta).
+
+---
+
 ## Fluxo Obrigatório a Cada Execução
 
 ### 1. Ler o log antes de pesquisar
 
-Leia o arquivo `morning-call-log.json` neste repositório. Ele contém todos os itens já reportados em edições anteriores, identificados por `id` e `url`.
+Antes de qualquer coisa, garanta que está no branch padrão: `git checkout claude/charming-ritchie-udzg0q && git pull origin claude/charming-ritchie-udzg0q`. Só então leia o arquivo `morning-call-log.json` **desse branch**. Ele contém todos os itens já reportados em edições anteriores, identificados por `id` e `url`.
 
 ### 2. Pesquisar as fontes
 
@@ -80,21 +88,27 @@ Após gerar o relatório, atualize `morning-call-log.json`:
 
 - Defina `last_run` com a data de hoje (formato `YYYY-MM-DD`)
 - Adicione cada novo item reportado em `reported_items` com:
-  - `date_reported`: data de hoje
-  - `id`: slug descritivo único (ex: `claude-code-2-1-182-nova-feature`)
-  - `title`: título curto do item
-  - `published_date`: data de publicação original (se conhecida)
-  - `url`: URL principal da fonte
+- `date_reported`: data de hoje
+- `id`: slug descritivo único (ex: `claude-code-2-1-182-nova-feature`)
+- `title`: título curto do item
+- `published_date`: data de publicação original (se conhecida)
+- `url`: URL principal da fonte
 
 Mantenha no máximo os últimos **60 itens** no log (remova os mais antigos se necessário).
 
-### 7. Commitar e fazer push
+### 7. Commitar e fazer push (sempre no branch padrão)
+
+Confirme que está no branch padrão antes de commitar (`git branch --show-current` deve retornar `claude/charming-ritchie-udzg0q`):
 
 ```bash
+git checkout claude/charming-ritchie-udzg0q
+git pull --rebase origin claude/charming-ritchie-udzg0q
 git add morning-call-log.json
 git commit -m "morning-call: log [YYYY-MM-DD]"
-git push -u origin claude/charming-ritchie-udzg0q
+git push origin claude/charming-ritchie-udzg0q
 ```
+
+**Nunca** use `git checkout -b` para criar um branch novo, nem `git push -u origin <branch-novo>`, nem abra um Pull Request para este arquivo. Isso fragmenta o log entre branches que nunca se encontram de volta, e cada execução futura volta a repetir notícias já reportadas em outras sessões.
 
 ### 8. Enviar notificação push
 
@@ -108,6 +122,7 @@ Se não houver nada novo, **não envie notificação** — silêncio é o sinal 
 
 ## Regras Gerais
 
+- O log (`morning-call-log.json`) só cumpre sua função se viver sempre no branch padrão `claude/charming-ritchie-udzg0q`. Nunca deixe uma atualização do log presa em um branch de sessão isolado ou em um PR não mesclado.
 - Segunda-feira: cubra desde sexta — inclua novidades do fim de semana
 - Cada afirmação factual deve vir de fonte consultada nesta execução
 - Em caso de dúvida sobre veracidade, omita o item
