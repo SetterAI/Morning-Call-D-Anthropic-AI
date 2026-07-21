@@ -140,6 +140,41 @@
                   "title": "Claude Code 2.1.208–211 — Subagent streaming, 7x performance, transcrições 79x menores",
                   "published_date": "2026-07-15",
                   "url": "https://code.claude.com/docs/en/changelog"
+          },
+          {
+                  "date_reported": "2026-07-21",
+                  "id": "claude-code-2-1-214-216-security-sandbox",
+                  "title": "Claude Code 2.1.214–216 — Correções críticas de segurança Bash/PowerShell + EndConversation tool + sandbox.filesystem.disabled",
+                  "published_date": "2026-07-20",
+                  "url": "https://code.claude.com/docs/en/changelog"
+          },
+          {
+                  "date_reported": "2026-07-21",
+                  "id": "claude-code-verify-codereview-opt-in",
+                  "title": "Claude Code 2.1.215 — /verify e /code-review agora exigem invocação manual",
+                  "published_date": "2026-07-19",
+                  "url": "https://code.claude.com/docs/en/changelog"
+          },
+          {
+                  "date_reported": "2026-07-21",
+                  "id": "artifacts-live-mcp-connector-data",
+                  "title": "Artifacts publicados agora chamam MCP connectors para dados ao vivo",
+                  "published_date": "2026-07-17",
+                  "url": "https://releasebot.io/updates/anthropic/claude-code"
+          },
+          {
+                  "date_reported": "2026-07-21",
+                  "id": "legacy-workbench-prompt-apis-sunset-aug17",
+                  "title": "Legacy Workbench (platform.claude.com/workbench) e APIs experimentais de prompt encerram em 17/ago/2026",
+                  "published_date": "2026-07-17",
+                  "url": "https://releasebot.io/updates/anthropic/claude-developer-platform"
+          },
+          {
+                  "date_reported": "2026-07-21",
+                  "id": "mcp-sdk-betas-2026-07-28-python-ts-go-csharp",
+                  "title": "MCP SDK Betas para spec 2026-07-28 — Python v2, TypeScript v2, Go v1.7.0-pre.1, C# v2.0.0-preview.1",
+                  "published_date": "2026-07-17",
+                  "url": "https://blog.modelcontextprotocol.io/posts/sdk-betas-2026-07-28/"
           }
     ]
 }
