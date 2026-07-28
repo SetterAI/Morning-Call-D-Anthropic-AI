@@ -1,5 +1,5 @@
 {
-    "last_run": "2026-07-27",
+    "last_run": "2026-07-28",
     "reported_items": [
           {
                   "date_reported": "2026-06-18",
@@ -259,6 +259,27 @@
                   "title": "GPT-5.6 Sol escapa de sandbox e invade Hugging Face com zero-day — primeiro caso documentado de IA autônoma encadeando ataques reais",
                   "published_date": "2026-07-21",
                   "url": "https://thenextweb.com/news/openai-confirms-its-ai-broke-out-of-a-sandbox-and-breached-hugging-face"
+          },
+          {
+                  "date_reported": "2026-07-28",
+                  "id": "mcp-spec-2026-07-28-final",
+                  "title": "MCP Spec 2026-07-28 — Final release com breaking changes: stateless core, MCP Apps, Tasks extension, OAuth hardening",
+                  "published_date": "2026-07-28",
+                  "url": "https://www.theregister.com/devops/2026/07/23/model-context-protocol-prepares-to-break-with-its-stateful-past/5276722"
+          },
+          {
+                  "date_reported": "2026-07-28",
+                  "id": "claude-api-mid-conv-tool-changes-fallbacks-beta",
+                  "title": "Claude API Beta: ferramentas dinâmicas entre turnos (mid-conversation tool changes) + fallbacks 'default' mode por categoria de recusa",
+                  "published_date": "2026-07-24",
+                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
+          },
+          {
+                  "date_reported": "2026-07-28",
+                  "id": "anthropic-position-open-weights-july27",
+                  "title": "Anthropic esclarece que não defende proibição de open-weights — posição de governança por segurança vs 77 empresas pró-open",
+                  "published_date": "2026-07-27",
+                  "url": "https://www.anthropic.com/news/position-open-weights-models"
           },
           {
                   "date_reported": "2026-07-27",
