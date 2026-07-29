@@ -1,5 +1,5 @@
 {
-    "last_run": "2026-07-28",
+    "last_run": "2026-07-29",
     "reported_items": [
           {
                   "date_reported": "2026-06-18",
@@ -287,6 +287,20 @@
                   "title": "Kimi K3 (Moonshot AI) — modelo open-weight de 2,8T parâmetros, o maior da história, começa a ser distribuído",
                   "published_date": "2026-07-27",
                   "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-26-2026"
+          },
+          {
+                  "date_reported": "2026-07-29",
+                  "id": "claude-mythos-crypto-hawk-aes-attack",
+                  "title": "Claude Mythos descobre vulnerabilidades em HAWK (pós-quântico) e AES-7 rodadas — pesquisa criptográfica autônoma",
+                  "published_date": "2026-07-28",
+                  "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses"
+          },
+          {
+                  "date_reported": "2026-07-29",
+                  "id": "hugging-face-forensic-timeline-openai-agent-breach",
+                  "title": "Hugging Face publica análise forense do ataque do agente OpenAI — 17.600 ações em 4 dias, safety classifiers recusaram analisar os logs",
+                  "published_date": "2026-07-29",
+                  "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline"
           }
     ]
 }
