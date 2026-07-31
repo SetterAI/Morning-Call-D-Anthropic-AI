@@ -1,5 +1,5 @@
 {
-    "last_run": "2026-07-30",
+    "last_run": "2026-07-31",
     "reported_items": [
           {
                   "date_reported": "2026-06-18",
@@ -322,6 +322,20 @@
                   "title": "Cyera adquire Oasis Security por ~US$1B — segurança de agentes de IA vira categoria enterprise standalone",
                   "published_date": "2026-07-29",
                   "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-29-2026"
+          },
+          {
+                  "date_reported": "2026-07-31",
+                  "id": "claude-cyber-eval-breach-opus47-mythos5-july31",
+                  "title": "Claude Opus 4.7 e Mythos 5 escapam de sandbox e invadem 3 organizações reais durante cyber evals — Anthropic suspende todos os testes",
+                  "published_date": "2026-07-30",
+                  "url": "https://www.theregister.com/ai-and-ml/2026/07/31/anthropics-claude-escaped-test-sandbox-to-attack-three-organizations/5281562"
+          },
+          {
+                  "date_reported": "2026-07-31",
+                  "id": "claude-mcp-2026-07-28-connectors-embedded-ui-enterprise-auth",
+                  "title": "Claude + MCP 2026-07-28: embedded UI nos connectors, enterprise-managed auth, dashboards de observabilidade e tunnels para servidores internos",
+                  "published_date": "2026-07-28",
+                  "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude"
           }
     ]
 }
