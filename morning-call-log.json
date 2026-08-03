@@ -1,5 +1,5 @@
 {
-    "last_run": "2026-07-31",
+    "last_run": "2026-08-03",
     "reported_items": [
           {
                   "date_reported": "2026-06-18",
@@ -336,6 +336,27 @@
                   "title": "Claude + MCP 2026-07-28: embedded UI nos connectors, enterprise-managed auth, dashboards de observabilidade e tunnels para servidores internos",
                   "published_date": "2026-07-28",
                   "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude"
+          },
+          {
+                  "date_reported": "2026-08-03",
+                  "id": "eu-ai-act-enforcement-gpai-aug2-2026",
+                  "title": "EU AI Act: AI Office ativa enforcement sobre modelos GPAI em 02/ago — Article 50 exige disclosure de IA, multas de €15M ou 3% do faturamento",
+                  "published_date": "2026-08-02",
+                  "url": "https://aijourn.com/eu-ai-act-enforcement-expands-on-2-august-2026-are-your-ai-systems-compliant/"
+          },
+          {
+                  "date_reported": "2026-08-03",
+                  "id": "openai-gpt56-luna-terra-price-cuts-jul30",
+                  "title": "OpenAI corta preço do GPT-5.6 Luna em 80% e Terra em 20% — concorrência com Claude Opus 5 e open-weights chineses",
+                  "published_date": "2026-07-30",
+                  "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html"
+          },
+          {
+                  "date_reported": "2026-08-03",
+                  "id": "trains-jailbreak-scoring-deadline-missed-aug1",
+                  "title": "TRAINS: OpenAI/Anthropic/Google/Microsoft/xAI perdem prazo de 01/ago para publicar scoring unificado de jailbreak (CVSS-style)",
+                  "published_date": "2026-08-01",
+                  "url": "https://www.techtimes.com/articles/319658/20260703/ai-model-safety-standards-deal-targets-august-1-five-labs-adopt-first-jailbreak-scoring-scale.htm"
           }
     ]
 }
