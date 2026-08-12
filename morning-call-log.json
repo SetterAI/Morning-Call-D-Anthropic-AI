@@ -1,5 +1,5 @@
 {
-    "last_run": "2026-08-11",
+    "last_run": "2026-08-12",
     "reported_items": [
           {
                   "date_reported": "2026-07-08",
@@ -420,6 +420,34 @@
                   "title": "Meta Muse Glimmer — 30B parâmetros, Apache 2.0, roda em GPU consumer, agente local multi-step com ferramentas",
                   "published_date": "2026-08-10",
                   "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+          },
+          {
+                  "date_reported": "2026-08-12",
+                  "id": "claude-sonnet-5-price-permanent-2-10",
+                  "title": "Claude Sonnet 5 — preço $2/$10 por MTok passa a ser permanente (aumento de setembro cancelado)",
+                  "published_date": "2026-08-10",
+                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
+          },
+          {
+                  "date_reported": "2026-08-12",
+                  "id": "compliance-api-cowork-claude-code-local-sessions",
+                  "title": "Compliance API Enterprise — cobre sessões locais de Cowork e Claude Code (beta)",
+                  "published_date": "2026-08-11",
+                  "url": "https://claude.com/blog/compliance-api-cowork-and-claude-code"
+          },
+          {
+                  "date_reported": "2026-08-12",
+                  "id": "claude-code-2-1-228-skills-security-session-fixes",
+                  "title": "Claude Code 2.1.228 — Skills security hardening (no shadowing/sanitização) + fixes de sessão, Git Windows, cross-session messaging",
+                  "published_date": "2026-08-11",
+                  "url": "https://code.claude.com/docs/en/changelog"
+          },
+          {
+                  "date_reported": "2026-08-12",
+                  "id": "openai-gpt-56-cyber-offense-grade-model",
+                  "title": "OpenAI GPT-5.6-Cyber — modelo ofensivo para segurança, 95% em benchmarks, acesso restrito via Daybreak Red, encontrou 2 CVEs reais no Chrome V8",
+                  "published_date": "2026-08-10",
+                  "url": "https://www.axios.com/2026/08/10/openai-gpt-astra-restrictions-safety-hacking-defenders"
           }
     ]
 }
