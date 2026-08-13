@@ -1,48 +1,6 @@
 {
-    "last_run": "2026-08-12",
+    "last_run": "2026-08-13",
     "reported_items": [
-          {
-                  "date_reported": "2026-07-08",
-                  "id": "cowork-web-mobile-m365-write-tools",
-                  "title": "Claude Cowork expandido para web/mobile + Microsoft 365 Connector com write tools",
-                  "published_date": "2026-07-07",
-                  "url": "https://support.claude.com/en/articles/12138966-release-notes"
-          },
-          {
-                  "date_reported": "2026-07-08",
-                  "id": "google-gemini-35-pro-delayed-july17",
-                  "title": "Google Gemini 3.5 Pro — Adiado para 17/jul, rebuild completo, 2M tokens de contexto",
-                  "published_date": "2026-07-07",
-                  "url": "https://finance.biggo.com/news/6f0c6bb2-795f-4c57-9d09-6db691d7638a"
-          },
-          {
-                  "date_reported": "2026-07-10",
-                  "id": "claude-web-search-sec-filings-enriched",
-                  "title": "Web search do Claude passa a retornar dados ricos de SEC filings",
-                  "published_date": "2026-07-01",
-                  "url": "https://releasebot.io/updates/anthropic/claude-developer-platform"
-          },
-          {
-                  "date_reported": "2026-07-13",
-                  "id": "grok-4-5-xai-launch",
-                  "title": "Grok 4.5 (xAI) lançado",
-                  "published_date": "2026-07-08",
-                  "url": "https://llm-stats.com/llm-updates"
-          },
-          {
-                  "date_reported": "2026-07-14",
-                  "id": "openai-gpt-5-6-sol-terra-luna",
-                  "title": "OpenAI GPT-5.6 — lineup Sol/Terra/Luna com Ultra subagent mode",
-                  "published_date": "2026-07-09",
-                  "url": "https://thursdai.news/releases/2026-07"
-          },
-          {
-                  "date_reported": "2026-07-14",
-                  "id": "claude-opus-41-deprecation-aug5",
-                  "title": "Claude Opus 4.1 será descontinuado em 05/08/2026",
-                  "published_date": "2026-07-01",
-                  "url": "https://releasebot.io/updates/anthropic/claude-developer-platform"
-          },
           {
                   "date_reported": "2026-07-14",
                   "id": "claude-code-auto-mode-bedrock-vertex-opus48",
@@ -448,6 +406,20 @@
                   "title": "OpenAI GPT-5.6-Cyber — modelo ofensivo para segurança, 95% em benchmarks, acesso restrito via Daybreak Red, encontrou 2 CVEs reais no Chrome V8",
                   "published_date": "2026-08-10",
                   "url": "https://www.axios.com/2026/08/10/openai-gpt-astra-restrictions-safety-hacking-defenders"
+          },
+          {
+                  "date_reported": "2026-08-13",
+                  "id": "claude-code-2-1-229-231-plugin-command-sources-sse-keepalive",
+                  "title": "Claude Code 2.1.229/231 — Plugin command sources (IDE dinâmico sem restart), hooks em self-hosted runner, SSE keepalive Vertex/Bedrock e fix MCP OAuth Slack",
+                  "published_date": "2026-08-12",
+                  "url": "https://code.claude.com/docs/en/changelog"
+          },
+          {
+                  "date_reported": "2026-08-13",
+                  "id": "grok-4-6-spacexai-long-running-agents",
+                  "title": "Grok 4.6 (SpaceXAI) — Paridade com Fable 5/Sol em agentes longos, $2/$6 por MTok",
+                  "published_date": "2026-08-12",
+                  "url": "https://x.ai/news/grok-4-6"
           }
     ]
 }
