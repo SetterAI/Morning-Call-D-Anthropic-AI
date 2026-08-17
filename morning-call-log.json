@@ -1,48 +1,6 @@
 {
-    "last_run": "2026-08-14",
+    "last_run": "2026-08-17",
     "reported_items": [
-          {
-                  "date_reported": "2026-07-14",
-                  "id": "claude-code-auto-mode-bedrock-vertex-opus48",
-                  "title": "Claude Code 2.1.207 — Auto mode sem opt-in no Bedrock/Vertex/Foundry; Opus 4.8 como default",
-                  "published_date": "2026-07-11",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-07-14",
-                  "id": "claude-enterprise-hipaa-self-serve",
-                  "title": "HIPAA self-serve no Claude Enterprise",
-                  "published_date": "2026-07-14",
-                  "url": "https://support.claude.com/en/articles/12138966-release-notes"
-          },
-          {
-                  "date_reported": "2026-07-15",
-                  "id": "meta-muse-spark-1-1-paid-api",
-                  "title": "Meta Muse Spark 1.1 — primeira API paga da Meta, com computer use",
-                  "published_date": "2026-07-09",
-                  "url": "https://thursdai.news/releases/2026-07"
-          },
-          {
-                  "date_reported": "2026-07-16",
-                  "id": "claude-code-2-1-208-211-subagent-streaming",
-                  "title": "Claude Code 2.1.208–211 — Subagent streaming, 7x performance, transcrições 79x menores",
-                  "published_date": "2026-07-15",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-07-21",
-                  "id": "claude-code-2-1-214-216-security-sandbox",
-                  "title": "Claude Code 2.1.214–216 — Correções críticas de segurança Bash/PowerShell + EndConversation tool + sandbox.filesystem.disabled",
-                  "published_date": "2026-07-20",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-07-21",
-                  "id": "claude-code-verify-codereview-opt-in",
-                  "title": "Claude Code 2.1.215 — /verify e /code-review agora exigem invocação manual",
-                  "published_date": "2026-07-19",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
           {
                   "date_reported": "2026-07-21",
                   "id": "artifacts-live-mcp-connector-data",
@@ -441,6 +399,27 @@
                   "title": "Grok 4.6 (SpaceXAI) — Paridade com Fable 5/Sol em agentes longos, $2/$6 por MTok",
                   "published_date": "2026-08-12",
                   "url": "https://x.ai/news/grok-4-6"
+          },
+          {
+                  "date_reported": "2026-08-17",
+                  "id": "claude-code-2-1-233-task-tools-removed-ntlm-fix-forward-identity",
+                  "title": "Claude Code 2.1.233 — Task tools removidas de modelos novos por padrão + NTLM credential fix + forward_user_identity em gateways + GitLab MR",
+                  "published_date": "2026-08-14",
+                  "url": "https://code.claude.com/docs/en/changelog"
+          },
+          {
+                  "date_reported": "2026-08-17",
+                  "id": "claude-watermark-api-detection-upcoming",
+                  "title": "API de detecção de watermark Claude anunciada — chega em breve, C2PA para imagens, modelos pré-ago recebem watermark gradualmente",
+                  "published_date": "2026-08-14",
+                  "url": "https://www.anthropic.com/news/claude-text-watermark"
+          },
+          {
+                  "date_reported": "2026-08-17",
+                  "id": "gemini-3-7-flash-coding-agents-aug13",
+                  "title": "Google Gemini 3.7 Flash — DeepSWE 65.3%, 1M contexto, metade do preço da 3.6 até dez/2026 ($0,75/$3,75/MTok)",
+                  "published_date": "2026-08-13",
+                  "url": "https://siliconangle.com/2026/08/13/google-launches-gemini-3-7-flash-coding-ai-agent-projects/"
           }
     ]
 }
