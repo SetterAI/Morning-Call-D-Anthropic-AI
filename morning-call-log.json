@@ -1,5 +1,5 @@
 {
-    "last_run": "2026-08-19",
+    "last_run": "2026-08-20",
     "reported_items": [
           {
                   "date_reported": "2026-07-21",
@@ -441,6 +441,48 @@
                   "title": "OpenAI GPT-5.6 Sol Ultrafast via Cerebras — 750 tokens/s, 14× mais rápido que Standard, mesma inteligência, preview limitado na API sem preço definido",
                   "published_date": "2026-08-13",
                   "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
+          },
+          {
+                  "date_reported": "2026-08-20",
+                  "id": "files-api-ga-aug19",
+                  "title": "Files API GA — endpoints /v1/files sem beta header, expiração nativa, 1 TB/org, 500 RPM",
+                  "published_date": "2026-08-19",
+                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
+          },
+          {
+                  "date_reported": "2026-08-20",
+                  "id": "skills-api-ga-aug19",
+                  "title": "Skills API GA — /v1/skills e Messages API com container sem beta header; Skills via GitHub para Managed Agents já estável",
+                  "published_date": "2026-08-19",
+                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
+          },
+          {
+                  "date_reported": "2026-08-20",
+                  "id": "enterprise-admin-api-ga-user-management",
+                  "title": "Admin API GA para Claude Enterprise — gestão programática de membros, grupos e custom roles sem beta header",
+                  "published_date": "2026-08-19",
+                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
+          },
+          {
+                  "date_reported": "2026-08-20",
+                  "id": "managed-agents-web-search-domain-restrictions",
+                  "title": "Claude Managed Agents — allowed_domains/blocked_domains por ferramenta web_search e web_fetch",
+                  "published_date": "2026-08-19",
+                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
+          },
+          {
+                  "date_reported": "2026-08-20",
+                  "id": "managed-agents-sandbox-memory-stores",
+                  "title": "Claude Managed Agents — Self-hosted sandboxes suportam memory stores persistentes (Python/TS/Go SDKs)",
+                  "published_date": "2026-08-19",
+                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
+          },
+          {
+                  "date_reported": "2026-08-20",
+                  "id": "claude-code-2-1-236-237-default-model-concise-sandbox",
+                  "title": "Claude Code 2.1.236/237 — ANTHROPIC_DEFAULT_MODEL env var, output style 'Concise', sandbox wildcard read-deny, notify_when_idle cross-session",
+                  "published_date": "2026-08-20",
+                  "url": "https://code.claude.com/docs/en/changelog"
           }
     ]
 }
