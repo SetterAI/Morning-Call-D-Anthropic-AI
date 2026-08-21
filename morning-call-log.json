@@ -1,76 +1,6 @@
 {
-    "last_run": "2026-08-20",
+    "last_run": "2026-08-21",
     "reported_items": [
-          {
-                  "date_reported": "2026-07-21",
-                  "id": "mcp-sdk-betas-2026-07-28-python-ts-go-csharp",
-                  "title": "MCP SDK Betas para spec 2026-07-28 — Python v2, TypeScript v2, Go v1.7.0-pre.1, C# v2.0.0-preview.1",
-                  "published_date": "2026-07-17",
-                  "url": "https://blog.modelcontextprotocol.io/posts/sdk-betas-2026-07-28/"
-          },
-          {
-                  "date_reported": "2026-07-22",
-                  "id": "cowork-record-a-skill-screen-demo",
-                  "title": "Claude Cowork — 'Record a Skill': grave a tela + narração e Claude cria um skill reutilizável (Pro/Max/Team)",
-                  "published_date": "2026-07-22",
-                  "url": "https://x.com/claudeai/status/2079595988998554047"
-          },
-          {
-                  "date_reported": "2026-07-22",
-                  "id": "claude-code-2-1-217-subagent-concurrency-proxy-fix",
-                  "title": "Claude Code 2.1.217 — Limites de concorrência de subagentes + budget enforcement + fixes proxy corporativo",
-                  "published_date": "2026-07-21",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-07-22",
-                  "id": "google-gemini-3-6-flash-35-flash-lite-cyber",
-                  "title": "Google — Gemini 3.6 Flash + 3.5 Flash-Lite + 3.5 Flash Cyber: melhor em coding/agentes, 17% menos tokens, mais barato",
-                  "published_date": "2026-07-21",
-                  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/"
-          },
-          {
-                  "date_reported": "2026-07-23",
-                  "id": "claude-opus-47-fast-mode-removal-july24",
-                  "title": "Claude Opus 4.7 fast mode removido em 24/jul — migre para Opus 4.8 (custo -66%)",
-                  "published_date": "2026-07-22",
-                  "url": "https://platform.claude.com/docs/en/build-with-claude/fast-mode"
-          },
-          {
-                  "date_reported": "2026-07-23",
-                  "id": "anthropic-economic-index-connector",
-                  "title": "Anthropic Economic Index Connector — consulte dados de adoção de IA por setor/ocupação direto no Claude",
-                  "published_date": "2026-07-22",
-                  "url": "https://www.anthropic.com/news/anthropic-economic-index-connector"
-          },
-          {
-                  "date_reported": "2026-07-23",
-                  "id": "claude-code-2-1-218-code-review-background-automode",
-                  "title": "Claude Code 2.1.218 — /code-review como background subagent + auto-mode sem diálogos para rm/paths suspeitos",
-                  "published_date": "2026-07-22",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-07-24",
-                  "id": "managed-agents-api-effort-webhooks-seeding-july22",
-                  "title": "Claude Managed Agents — effort por agente, webhooks environment/memory, session seeding, thread stream deltas",
-                  "published_date": "2026-07-22",
-                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
-          },
-          {
-                  "date_reported": "2026-07-24",
-                  "id": "agent-memory-2026-07-22-default-behavior",
-                  "title": "Breaking change: agent-memory-2026-07-22 vira comportamento padrão para listagem de memórias",
-                  "published_date": "2026-07-22",
-                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
-          },
-          {
-                  "date_reported": "2026-07-24",
-                  "id": "anthropic-economic-futures-research-fund",
-                  "title": "Anthropic Economic Futures Research Fund — agenda de pesquisa sobre impactos econômicos da IA",
-                  "published_date": "2026-07-22",
-                  "url": "https://www.anthropic.com/news"
-          },
           {
                   "date_reported": "2026-07-27",
                   "id": "claude-opus-5-launch",
@@ -481,6 +411,41 @@
                   "date_reported": "2026-08-20",
                   "id": "claude-code-2-1-236-237-default-model-concise-sandbox",
                   "title": "Claude Code 2.1.236/237 — ANTHROPIC_DEFAULT_MODEL env var, output style 'Concise', sandbox wildcard read-deny, notify_when_idle cross-session",
+                  "published_date": "2026-08-20",
+                  "url": "https://code.claude.com/docs/en/changelog"
+          },
+          {
+                  "date_reported": "2026-08-21",
+                  "id": "computer-use-ga-toolset-20260801",
+                  "title": "Computer Use Tool GA — computer_toolset_20260801 sem beta header, batch actions, zoom por default, configs por membro",
+                  "published_date": "2026-08-19",
+                  "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool"
+          },
+          {
+                  "date_reported": "2026-08-21",
+                  "id": "browser-use-tool-launch-toolset-20260801",
+                  "title": "Browser Use Tool lançado — browser_toolset_20260801: agentes navegam browser hospedado pelo app, lendo DOM/accessibility tree, forms, tabs e downloads",
+                  "published_date": "2026-08-19",
+                  "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/browser-use-tool"
+          },
+          {
+                  "date_reported": "2026-08-21",
+                  "id": "console-session-viewer-redesign-aug19",
+                  "title": "Console Session Viewer redesenhado — timeline minimap, transcript por model request, Inspector panel (custo, raw events, estatísticas por ferramenta, atividade por thread)",
+                  "published_date": "2026-08-19",
+                  "url": "https://platform.claude.com/docs/en/managed-agents/events-and-streaming#console-observability"
+          },
+          {
+                  "date_reported": "2026-08-21",
+                  "id": "claude-academy-launch-aug20",
+                  "title": "Claude Academy — plataforma de cursos, tutoriais e badges para fluência prática em IA",
+                  "published_date": "2026-08-20",
+                  "url": "https://releasebot.io/updates/anthropic/claude"
+          },
+          {
+                  "date_reported": "2026-08-21",
+                  "id": "claude-code-2-1-238-memory-fix-runner-flags",
+                  "title": "Claude Code 2.1.238 — Fix de vazamento de memória em sessões longas + flags de proxy para self-hosted runner + keybindingFlavor readline",
                   "published_date": "2026-08-20",
                   "url": "https://code.claude.com/docs/en/changelog"
           }
