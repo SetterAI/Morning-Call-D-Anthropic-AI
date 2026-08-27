@@ -1,13 +1,6 @@
 {
-    "last_run": "2026-08-26",
+    "last_run": "2026-08-27",
     "reported_items": [
-          {
-                  "date_reported": "2026-07-30",
-                  "id": "cyera-oasis-security-agent-security-1b",
-                  "title": "Cyera adquire Oasis Security por ~US$1B — segurança de agentes de IA vira categoria enterprise standalone",
-                  "published_date": "2026-07-29",
-                  "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-29-2026"
-          },
           {
                   "date_reported": "2026-07-31",
                   "id": "claude-cyber-eval-breach-opus47-mythos5-july31",
@@ -366,6 +359,13 @@
                   "url": "https://releasebot.io/updates/anthropic/claude"
           },
           {
+                  "date_reported": "2026-08-21",
+                  "id": "claude-code-2-1-238-memory-fix-runner-flags",
+                  "title": "Claude Code 2.1.238 — Fix de vazamento de memória em sessões longas + flags de proxy para self-hosted runner + keybindingFlavor readline",
+                  "published_date": "2026-08-20",
+                  "url": "https://code.claude.com/docs/en/changelog"
+          },
+          {
                   "date_reported": "2026-08-24",
                   "id": "anthropic-python-sdk-v1-0-breaking-changes",
                   "title": "Anthropic Python SDK v1.0 — breaking changes: remove Text Completions, temperature/top_p/top_k no Messages, Python 3.10+, httpx→httpx2",
@@ -394,13 +394,6 @@
                   "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models/"
           },
           {
-                  "date_reported": "2026-08-21",
-                  "id": "claude-code-2-1-238-memory-fix-runner-flags",
-                  "title": "Claude Code 2.1.238 — Fix de vazamento de memória em sessões longas + flags de proxy para self-hosted runner + keybindingFlavor readline",
-                  "published_date": "2026-08-20",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
                   "date_reported": "2026-08-25",
                   "id": "claude-code-2-1-243-245-modelpicker-promptcachettl-modelpricing-keyless",
                   "title": "Claude Code 2.1.243/245 — modelPicker, promptCacheTtl/subagentPromptCacheTtl, modelPricing managed setting, keyless sign-in, binário 75% menor (~75MB), melhor uso de memória, MCP reconexão automática",
@@ -420,6 +413,41 @@
                   "title": "Memória no Claude Cowork — tópicos editáveis em Settings > Memory, dados sensíveis (saúde/crenças) excluídos por padrão, off para Team/Enterprise",
                   "published_date": "2026-08-25",
                   "url": "https://support.claude.com/en/articles/12138966-release-notes"
+          },
+          {
+                  "date_reported": "2026-08-27",
+                  "id": "claude-code-2-1-247-sendfeedback-cost-optimize-admin-api",
+                  "title": "Claude Code 2.1.247 — SendFeedback tool, /claude-api cost-optimize, Admin API coverage completo, Sonnet 5 auto-compact para 1M contexto",
+                  "published_date": "2026-08-26",
+                  "url": "https://code.claude.com/docs/en/changelog"
+          },
+          {
+                  "date_reported": "2026-08-27",
+                  "id": "claude-cowork-builtin-browser-aug26",
+                  "title": "Claude Cowork — Browser nativo no desktop app: navegação autônoma sem depender do browser do usuário (Pro/Max/Team/Enterprise)",
+                  "published_date": "2026-08-26",
+                  "url": "https://releasebot.io/updates/anthropic/claude"
+          },
+          {
+                  "date_reported": "2026-08-27",
+                  "id": "claude-in-chrome-ga-aug26",
+                  "title": "Claude in Chrome GA — extensão Chrome com ações autônomas (ler, clicar, preencher forms), safety classifiers e defesas contra prompt injection",
+                  "published_date": "2026-08-26",
+                  "url": "https://releasebot.io/updates/anthropic/claude"
+          },
+          {
+                  "date_reported": "2026-08-27",
+                  "id": "claude-mythos5-security-enterprise-vulnerability-scanning-aug21",
+                  "title": "Claude Security com Mythos 5 para Enterprise — scan de vulnerabilidades por CWE/severidade + fundo de US$35M para segurança open-source",
+                  "published_date": "2026-08-21",
+                  "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders"
+          },
+          {
+                  "date_reported": "2026-08-27",
+                  "id": "glm-5-3-flash-zai-opensource-320b-aug26",
+                  "title": "Z.ai GLM-5.3-Flash — MoE 320B-A18B, MIT license, 1M contexto, multimodal, 10x mais barato, benchmarks próximos ao Claude Opus 4.8",
+                  "published_date": "2026-08-26",
+                  "url": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/amp/"
           }
     ]
 }
