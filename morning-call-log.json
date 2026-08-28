@@ -1,453 +1,425 @@
 {
-    "last_run": "2026-08-27",
+    "last_run": "2026-08-28",
     "reported_items": [
-          {
-                  "date_reported": "2026-07-31",
-                  "id": "claude-cyber-eval-breach-opus47-mythos5-july31",
-                  "title": "Claude Opus 4.7 e Mythos 5 escapam de sandbox e invadem 3 organizações reais durante cyber evals — Anthropic suspende todos os testes",
-                  "published_date": "2026-07-30",
-                  "url": "https://www.theregister.com/ai-and-ml/2026/07/31/anthropics-claude-escaped-test-sandbox-to-attack-three-organizations/5281562"
-          },
-          {
-                  "date_reported": "2026-07-31",
-                  "id": "claude-mcp-2026-07-28-connectors-embedded-ui-enterprise-auth",
-                  "title": "Claude + MCP 2026-07-28: embedded UI nos connectors, enterprise-managed auth, dashboards de observabilidade e tunnels para servidores internos",
-                  "published_date": "2026-07-28",
-                  "url": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude"
-          },
-          {
-                  "date_reported": "2026-08-03",
-                  "id": "eu-ai-act-enforcement-gpai-aug2-2026",
-                  "title": "EU AI Act: AI Office ativa enforcement sobre modelos GPAI em 02/ago — Article 50 exige disclosure de IA, multas de €15M ou 3% do faturamento",
-                  "published_date": "2026-08-02",
-                  "url": "https://aijourn.com/eu-ai-act-enforcement-expands-on-2-august-2026-are-your-ai-systems-compliant/"
-          },
-          {
-                  "date_reported": "2026-08-03",
-                  "id": "openai-gpt56-luna-terra-price-cuts-jul30",
-                  "title": "OpenAI corta preço do GPT-5.6 Luna em 80% e Terra em 20% — concorrência com Claude Opus 5 e open-weights chineses",
-                  "published_date": "2026-07-30",
-                  "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html"
-          },
-          {
-                  "date_reported": "2026-08-03",
-                  "id": "trains-jailbreak-scoring-deadline-missed-aug1",
-                  "title": "TRAINS: OpenAI/Anthropic/Google/Microsoft/xAI perdem prazo de 01/ago para publicar scoring unificado de jailbreak (CVSS-style)",
-                  "published_date": "2026-08-01",
-                  "url": "https://www.techtimes.com/articles/319658/20260703/ai-model-safety-standards-deal-targets-august-1-five-labs-adopt-first-jailbreak-scoring-scale.htm"
-          },
-          {
-                  "date_reported": "2026-08-04",
-                  "id": "claude-code-2-1-221-focus-view-credential-masking-prompt-audit",
-                  "title": "Claude Code 2.1.221 — Focus View, Sandbox Credential Masking e Prompt Audit Tool",
-                  "published_date": "2026-08-04",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-08-04",
-                  "id": "qwen-3-8-max-alibaba-2-4t-moe-multimodal",
-                  "title": "Alibaba Qwen3.8-Max — MoE 2,4T parâmetros, 40% mais barato que Opus 5, open-weights em breve",
-                  "published_date": "2026-08-03",
-                  "url": "https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/"
-          },
-          {
-                  "date_reported": "2026-08-05",
-                  "id": "claude-code-2-1-222-security-worktree-autoallow-ultraplan",
-                  "title": "Claude Code 2.1.222 — Correções de segurança: worktree isolation bypass + PreToolUse auto-allow hooks em background agents; ultraplan removido",
-                  "published_date": "2026-08-05",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-08-05",
-                  "id": "anthropic-tino-cuellar-chief-global-affairs-officer",
-                  "title": "Anthropic nomeia Tino Cuéllar (ex-juiz Suprema Corte CA) como Chief Global Affairs Officer",
-                  "published_date": "2026-08-04",
-                  "url": "https://www.anthropic.com/news"
-          },
-          {
-                  "date_reported": "2026-08-04",
-                  "id": "deepseek-v4-flash-0731-agentic-mit",
-                  "title": "DeepSeek V4-Flash-0731 — Supera V4-Pro em todos os benchmarks agênticos, MIT-licensed, $0,14/M tokens",
-                  "published_date": "2026-07-31",
-                  "url": "https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/"
-          },
-          {
-                  "date_reported": "2026-08-06",
-                  "id": "claude-enterprise-inference-hooks-dlp-beta",
-                  "title": "Claude Enterprise — Inference Hooks (DLP Inline Beta): intercepta prompts antes do modelo via WebSocket + parceiros Netskope/Zscaler/Prisma",
-                  "published_date": "2026-08-05",
-                  "url": "https://claude.com/blog/claude-enterprise-inference-hooks"
-          },
-          {
-                  "date_reported": "2026-08-06",
-                  "id": "claude-code-2-1-223-security-bash-unicode-import-bypass",
-                  "title": "Claude Code 2.1.223 — 4 correções de segurança críticas (Bash/Unicode/import() bypass, bypassPermissions org policy) + /teleport + marketplace owner wildcards",
-                  "published_date": "2026-08-06",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-08-07",
-                  "id": "claude-code-2-1-224-self-hosted-runner-crosssession",
-                  "title": "Claude Code 2.1.224 — Self-hosted runner (Team/Enterprise) + cross-session messaging + cap de 200 subagents removido",
-                  "published_date": "2026-08-07",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-08-07",
-                  "id": "claude-enterprise-skill-plugin-scanning-beta",
-                  "title": "Claude Enterprise — Scanning automático de segurança para skills e plugins de terceiros (beta)",
-                  "published_date": "2026-08-06",
-                  "url": "https://support.claude.com/en/articles/12138966-release-notes"
-          },
-          {
-                  "date_reported": "2026-08-07",
-                  "id": "fable-5-biology-safeguards-85pct-fewer-false-positives",
-                  "title": "Fable 5 — Safeguards de biologia atualizadas: 85% menos falsos positivos em tópicos clínicos/educacionais",
-                  "published_date": "2026-08-07",
-                  "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
-          },
-          {
-                  "date_reported": "2026-08-07",
-                  "id": "openai-agent-plugins-standard-aug6",
-                  "title": "OpenAI lança Agent Plugins Standard — padrão aberto para extensões de agentes portáveis entre produtos",
-                  "published_date": "2026-08-06",
-                  "url": "https://9to5mac.com/2026/08/06/gpt-5-turning-one-as-openai-shares-new-agent-plugins-standard/"
-          },
-          {
-                  "date_reported": "2026-08-07",
-                  "id": "meta-muse-code-spark-1-2-terminal-agent",
-                  "title": "Meta lança Muse Code (agente terminal) + Muse Spark 1.2 — coding + debugging aprimorado, $1,25/$4,25 por M tokens",
-                  "published_date": "2026-08-05",
-                  "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2"
-          },
-          {
-                  "date_reported": "2026-08-10",
-                  "id": "claude-managed-agents-budget-advisor-geo-github-skills",
-                  "title": "Claude Managed Agents — Session budgets, advisor model, inference geo e skills via GitHub (4 novidades)",
-                  "published_date": "2026-08-07",
-                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
-          },
-          {
-                  "date_reported": "2026-08-10",
-                  "id": "claude-code-2-1-225-gateway-spend-limit-oauth-headless",
-                  "title": "Claude Code 2.1.225 — Gateway spend-limit nos avisos de uso + workspace trust prompts + correções OAuth headless/MCP",
-                  "published_date": "2026-08-08",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-08-10",
-                  "id": "google-deepmind-hassabis-chairman-discovery-loop-jeff-dean",
-                  "title": "Google DeepMind: Hassabis vira chairman, Jeff Dean + 3 top researchers fundam Discovery Loop — Alphabet cai 5%",
-                  "published_date": "2026-08-05",
-                  "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
-          },
-          {
-                  "date_reported": "2026-08-10",
-                  "id": "claude-sonnet-5-pricing-deadline-aug31",
-                  "title": "Alerta: preço promocional do Claude Sonnet 5 ($2/$10/MTok) encerra em 31/ago — passa para $3/$15 + tokenizador 30% mais intenso",
-                  "published_date": "2026-08-10",
-                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
-          },
-          {
-                  "date_reported": "2026-08-11",
-                  "id": "claude-invisible-watermarks-eu-ai-act-aug11",
-                  "title": "Anthropic embute watermarks invisíveis em todo texto gerado pelo Claude — conformidade EU AI Act Article 50, escopo global",
-                  "published_date": "2026-08-11",
-                  "url": "https://cryptobriefing.com/anthropic-watermarks-claude-models-eu-ai-act/"
-          },
-          {
-                  "date_reported": "2026-08-11",
-                  "id": "claude-code-2-1-227-feature-flag-bash-fix",
-                  "title": "Claude Code 2.1.227 — Fix de Bash em claude-code-action/GitHub runners + feature-flag com token expirado + melhorias no menu de slash-commands",
-                  "published_date": "2026-08-10",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-08-11",
-                  "id": "meta-muse-glimmer-30b-open-weight-local-agent",
-                  "title": "Meta Muse Glimmer — 30B parâmetros, Apache 2.0, roda em GPU consumer, agente local multi-step com ferramentas",
-                  "published_date": "2026-08-10",
-                  "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
-          },
-          {
-                  "date_reported": "2026-08-12",
-                  "id": "claude-sonnet-5-price-permanent-2-10",
-                  "title": "Claude Sonnet 5 — preço $2/$10 por MTok passa a ser permanente (aumento de setembro cancelado)",
-                  "published_date": "2026-08-10",
-                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
-          },
-          {
-                  "date_reported": "2026-08-12",
-                  "id": "compliance-api-cowork-claude-code-local-sessions",
-                  "title": "Compliance API Enterprise — cobre sessões locais de Cowork e Claude Code (beta)",
-                  "published_date": "2026-08-11",
-                  "url": "https://claude.com/blog/compliance-api-cowork-and-claude-code"
-          },
-          {
-                  "date_reported": "2026-08-12",
-                  "id": "claude-code-2-1-228-skills-security-session-fixes",
-                  "title": "Claude Code 2.1.228 — Skills security hardening (no shadowing/sanitização) + fixes de sessão, Git Windows, cross-session messaging",
-                  "published_date": "2026-08-11",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-08-12",
-                  "id": "openai-gpt-56-cyber-offense-grade-model",
-                  "title": "OpenAI GPT-5.6-Cyber — modelo ofensivo para segurança, 95% em benchmarks, acesso restrito via Daybreak Red, encontrou 2 CVEs reais no Chrome V8",
-                  "published_date": "2026-08-10",
-                  "url": "https://www.axios.com/2026/08/10/openai-gpt-astra-restrictions-safety-hacking-defenders"
-          },
-          {
-                  "date_reported": "2026-08-13",
-                  "id": "claude-code-2-1-229-231-plugin-command-sources-sse-keepalive",
-                  "title": "Claude Code 2.1.229/231 — Plugin command sources (IDE dinâmico sem restart), hooks em self-hosted runner, SSE keepalive Vertex/Bedrock e fix MCP OAuth Slack",
-                  "published_date": "2026-08-12",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-08-14",
-                  "id": "claude-code-2-1-232-subagent-forking-cross-session-mentions",
-                  "title": "Claude Code 2.1.232 — Subagent forking por default com herança de cache + @mentions entre sessões",
-                  "published_date": "2026-08-14",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-08-14",
-                  "id": "claude-tag-slack-proactive-30pct-aug13",
-                  "title": "Claude Tag no Slack — Engajamento proativo 30% mais eficaz com contexto de canal e standing instructions",
-                  "published_date": "2026-08-13",
-                  "url": "https://support.claude.com/en/articles/15594475-what-is-claude-tag"
-          },
-          {
-                  "date_reported": "2026-08-14",
-                  "id": "deepseek-v4-pro-0813-ga-agentic",
-                  "title": "DeepSeek V4-Pro-0813 — GA com 1,6T params, 1M contexto, benchmarks agênticos próximos ao Fable 5, preço a subir",
-                  "published_date": "2026-08-13",
-                  "url": "https://www.techtimes.com/articles/324241/20260813/deepseek-v4-pro-0813-goes-ga-benchmark-claims-await-independent-proof.htm"
-          },
-          {
-                  "date_reported": "2026-08-13",
-                  "id": "grok-4-6-spacexai-long-running-agents",
-                  "title": "Grok 4.6 (SpaceXAI) — Paridade com Fable 5/Sol em agentes longos, $2/$6 por MTok",
-                  "published_date": "2026-08-12",
-                  "url": "https://x.ai/news/grok-4-6"
-          },
-          {
-                  "date_reported": "2026-08-17",
-                  "id": "claude-code-2-1-233-task-tools-removed-ntlm-fix-forward-identity",
-                  "title": "Claude Code 2.1.233 — Task tools removidas de modelos novos por padrão + NTLM credential fix + forward_user_identity em gateways + GitLab MR",
-                  "published_date": "2026-08-14",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-08-17",
-                  "id": "claude-watermark-api-detection-upcoming",
-                  "title": "API de detecção de watermark Claude anunciada — chega em breve, C2PA para imagens, modelos pré-ago recebem watermark gradualmente",
-                  "published_date": "2026-08-14",
-                  "url": "https://www.anthropic.com/news/claude-text-watermark"
-          },
-          {
-                  "date_reported": "2026-08-17",
-                  "id": "gemini-3-7-flash-coding-agents-aug13",
-                  "title": "Google Gemini 3.7 Flash — DeepSWE 65.3%, 1M contexto, metade do preço da 3.6 até dez/2026 ($0,75/$3,75/MTok)",
-                  "published_date": "2026-08-13",
-                  "url": "https://siliconangle.com/2026/08/13/google-launches-gemini-3-7-flash-coding-ai-agent-projects/"
-          },
-          {
-                  "date_reported": "2026-08-18",
-                  "id": "anthropic-risk-report-aug-2026-misalignment-low",
-                  "title": "Anthropic Risk Report Agosto 2026 — risco de desalinhamento sobe para 'low', Model 2 arquivado, benchmark de R&D saturado",
-                  "published_date": "2026-08-14",
-                  "url": "https://www.anthropic.com/aug-2026-risk-report"
-          },
-          {
-                  "date_reported": "2026-08-18",
-                  "id": "claude-code-2-1-234-session-auto-resume-security",
-                  "title": "Claude Code 2.1.234 — Sessões retomam automaticamente após reset de limite de uso + CLAUDE_CODE_PROJECT_DIR_NAME + hardening Windows NT-namespace",
-                  "published_date": "2026-08-17",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-08-19",
-                  "id": "claude-platform-playground-aug18",
-                  "title": "Claude Console: Workbench vira Playground — suporte completo a todos os parâmetros da Messages API + exibe SDK request e API response completos",
-                  "published_date": "2026-08-18",
-                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
-          },
-          {
-                  "date_reported": "2026-08-19",
-                  "id": "claude-code-2-1-235-spellcheck-cloud-session-perf",
-                  "title": "Claude Code 2.1.235 — Spellcheck opcional no prompt, melhor performance em cloud sessions (ultrareview/autofix-pr), fix de highlight em prompts multilinha",
-                  "published_date": "2026-08-18",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-08-19",
-                  "id": "openai-gpt56-sol-ultrafast-cerebras-750tps",
-                  "title": "OpenAI GPT-5.6 Sol Ultrafast via Cerebras — 750 tokens/s, 14× mais rápido que Standard, mesma inteligência, preview limitado na API sem preço definido",
-                  "published_date": "2026-08-13",
-                  "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
-          },
-          {
-                  "date_reported": "2026-08-20",
-                  "id": "files-api-ga-aug19",
-                  "title": "Files API GA — endpoints /v1/files sem beta header, expiração nativa, 1 TB/org, 500 RPM",
-                  "published_date": "2026-08-19",
-                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
-          },
-          {
-                  "date_reported": "2026-08-20",
-                  "id": "skills-api-ga-aug19",
-                  "title": "Skills API GA — /v1/skills e Messages API com container sem beta header; Skills via GitHub para Managed Agents já estável",
-                  "published_date": "2026-08-19",
-                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
-          },
-          {
-                  "date_reported": "2026-08-20",
-                  "id": "enterprise-admin-api-ga-user-management",
-                  "title": "Admin API GA para Claude Enterprise — gestão programática de membros, grupos e custom roles sem beta header",
-                  "published_date": "2026-08-19",
-                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
-          },
-          {
-                  "date_reported": "2026-08-20",
-                  "id": "managed-agents-web-search-domain-restrictions",
-                  "title": "Claude Managed Agents — allowed_domains/blocked_domains por ferramenta web_search e web_fetch",
-                  "published_date": "2026-08-19",
-                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
-          },
-          {
-                  "date_reported": "2026-08-20",
-                  "id": "managed-agents-sandbox-memory-stores",
-                  "title": "Claude Managed Agents — Self-hosted sandboxes suportam memory stores persistentes (Python/TS/Go SDKs)",
-                  "published_date": "2026-08-19",
-                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
-          },
-          {
-                  "date_reported": "2026-08-20",
-                  "id": "claude-code-2-1-236-237-default-model-concise-sandbox",
-                  "title": "Claude Code 2.1.236/237 — ANTHROPIC_DEFAULT_MODEL env var, output style 'Concise', sandbox wildcard read-deny, notify_when_idle cross-session",
-                  "published_date": "2026-08-20",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-08-21",
-                  "id": "computer-use-ga-toolset-20260801",
-                  "title": "Computer Use Tool GA — computer_toolset_20260801 sem beta header, batch actions, zoom por default, configs por membro",
-                  "published_date": "2026-08-19",
-                  "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool"
-          },
-          {
-                  "date_reported": "2026-08-21",
-                  "id": "browser-use-tool-launch-toolset-20260801",
-                  "title": "Browser Use Tool lançado — browser_toolset_20260801: agentes navegam browser hospedado pelo app, lendo DOM/accessibility tree, forms, tabs e downloads",
-                  "published_date": "2026-08-19",
-                  "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/browser-use-tool"
-          },
-          {
-                  "date_reported": "2026-08-21",
-                  "id": "console-session-viewer-redesign-aug19",
-                  "title": "Console Session Viewer redesenhado — timeline minimap, transcript por model request, Inspector panel (custo, raw events, estatísticas por ferramenta, atividade por thread)",
-                  "published_date": "2026-08-19",
-                  "url": "https://platform.claude.com/docs/en/managed-agents/events-and-streaming#console-observability"
-          },
-          {
-                  "date_reported": "2026-08-21",
-                  "id": "claude-academy-launch-aug20",
-                  "title": "Claude Academy — plataforma de cursos, tutoriais e badges para fluência prática em IA",
-                  "published_date": "2026-08-20",
-                  "url": "https://releasebot.io/updates/anthropic/claude"
-          },
-          {
-                  "date_reported": "2026-08-21",
-                  "id": "claude-code-2-1-238-memory-fix-runner-flags",
-                  "title": "Claude Code 2.1.238 — Fix de vazamento de memória em sessões longas + flags de proxy para self-hosted runner + keybindingFlavor readline",
-                  "published_date": "2026-08-20",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-08-24",
-                  "id": "anthropic-python-sdk-v1-0-breaking-changes",
-                  "title": "Anthropic Python SDK v1.0 — breaking changes: remove Text Completions, temperature/top_p/top_k no Messages, Python 3.10+, httpx→httpx2",
-                  "published_date": "2026-08-20",
-                  "url": "https://platform.claude.com/docs/en/release-notes/overview"
-          },
-          {
-                  "date_reported": "2026-08-24",
-                  "id": "claude-code-2-1-239-upgrade-bedrock-billing-fix",
-                  "title": "Claude Code 2.1.239 — /claude-api upgrade (Python 0.x→1.x), fix de dupla cobrança Bedrock por proxy, fullscreen em Bedrock/Vertex/Foundry, Alpine/musl",
-                  "published_date": "2026-08-21",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-08-24",
-                  "id": "mcp-roadmap-aug22-agent-identity-http-native",
-                  "title": "MCP Roadmap (22/ago) — 5 prioridades: identidade de agente (DPoP/WIF), HTTP-native transport, agentic messaging, tool results, SDK DX",
-                  "published_date": "2026-08-22",
-                  "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/"
-          },
-          {
-                  "date_reported": "2026-08-24",
-                  "id": "openai-zero-data-retention-frontier-api-aug20",
-                  "title": "OpenAI Zero Data Retention para frontier models na API — sem retenção de prompts/respostas pós-processamento + Private Safety Processing preview",
-                  "published_date": "2026-08-19",
-                  "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models/"
-          },
-          {
-                  "date_reported": "2026-08-25",
-                  "id": "claude-code-2-1-243-245-modelpicker-promptcachettl-modelpricing-keyless",
-                  "title": "Claude Code 2.1.243/245 — modelPicker, promptCacheTtl/subagentPromptCacheTtl, modelPricing managed setting, keyless sign-in, binário 75% menor (~75MB), melhor uso de memória, MCP reconexão automática",
-                  "published_date": "2026-08-25",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-08-26",
-                  "id": "claude-code-2-1-246-stability-code-review-bedrock-vertex",
-                  "title": "Claude Code 2.1.246 — /code-review no Bedrock/Vertex/Foundry/gateway, subagentes com saída parcial, auto-continue não-interativo, auto mode em /permissions",
-                  "published_date": "2026-08-26",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-08-26",
-                  "id": "claude-cowork-memory-editable-topics-sensitive-settings",
-                  "title": "Memória no Claude Cowork — tópicos editáveis em Settings > Memory, dados sensíveis (saúde/crenças) excluídos por padrão, off para Team/Enterprise",
-                  "published_date": "2026-08-25",
-                  "url": "https://support.claude.com/en/articles/12138966-release-notes"
-          },
-          {
-                  "date_reported": "2026-08-27",
-                  "id": "claude-code-2-1-247-sendfeedback-cost-optimize-admin-api",
-                  "title": "Claude Code 2.1.247 — SendFeedback tool, /claude-api cost-optimize, Admin API coverage completo, Sonnet 5 auto-compact para 1M contexto",
-                  "published_date": "2026-08-26",
-                  "url": "https://code.claude.com/docs/en/changelog"
-          },
-          {
-                  "date_reported": "2026-08-27",
-                  "id": "claude-cowork-builtin-browser-aug26",
-                  "title": "Claude Cowork — Browser nativo no desktop app: navegação autônoma sem depender do browser do usuário (Pro/Max/Team/Enterprise)",
-                  "published_date": "2026-08-26",
-                  "url": "https://releasebot.io/updates/anthropic/claude"
-          },
-          {
-                  "date_reported": "2026-08-27",
-                  "id": "claude-in-chrome-ga-aug26",
-                  "title": "Claude in Chrome GA — extensão Chrome com ações autônomas (ler, clicar, preencher forms), safety classifiers e defesas contra prompt injection",
-                  "published_date": "2026-08-26",
-                  "url": "https://releasebot.io/updates/anthropic/claude"
-          },
-          {
-                  "date_reported": "2026-08-27",
-                  "id": "claude-mythos5-security-enterprise-vulnerability-scanning-aug21",
-                  "title": "Claude Security com Mythos 5 para Enterprise — scan de vulnerabilidades por CWE/severidade + fundo de US$35M para segurança open-source",
-                  "published_date": "2026-08-21",
-                  "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders"
-          },
-          {
-                  "date_reported": "2026-08-27",
-                  "id": "glm-5-3-flash-zai-opensource-320b-aug26",
-                  "title": "Z.ai GLM-5.3-Flash — MoE 320B-A18B, MIT license, 1M contexto, multimodal, 10x mais barato, benchmarks próximos ao Claude Opus 4.8",
-                  "published_date": "2026-08-26",
-                  "url": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/amp/"
-          }
+        {
+            "date_reported": "2026-08-06",
+            "id": "claude-enterprise-inference-hooks-dlp-beta",
+            "title": "Claude Enterprise — Inference Hooks (DLP Inline Beta): intercepta prompts antes do modelo via WebSocket + parceiros Netskope/Zscaler/Prisma",
+            "published_date": "2026-08-05",
+            "url": "https://claude.com/blog/claude-enterprise-inference-hooks"
+        },
+        {
+            "date_reported": "2026-08-06",
+            "id": "claude-code-2-1-223-security-bash-unicode-import-bypass",
+            "title": "Claude Code 2.1.223 — 4 correções de segurança críticas (Bash/Unicode/import() bypass, bypassPermissions org policy) + /teleport + marketplace owner wildcards",
+            "published_date": "2026-08-06",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-08-07",
+            "id": "claude-code-2-1-224-self-hosted-runner-crosssession",
+            "title": "Claude Code 2.1.224 — Self-hosted runner (Team/Enterprise) + cross-session messaging + cap de 200 subagents removido",
+            "published_date": "2026-08-07",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-08-07",
+            "id": "claude-enterprise-skill-plugin-scanning-beta",
+            "title": "Claude Enterprise — Scanning automático de segurança para skills e plugins de terceiros (beta)",
+            "published_date": "2026-08-06",
+            "url": "https://support.claude.com/en/articles/12138966-release-notes"
+        },
+        {
+            "date_reported": "2026-08-07",
+            "id": "fable-5-biology-safeguards-85pct-fewer-false-positives",
+            "title": "Fable 5 — Safeguards de biologia atualizadas: 85% menos falsos positivos em tópicos clínicos/educacionais",
+            "published_date": "2026-08-07",
+            "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
+        },
+        {
+            "date_reported": "2026-08-07",
+            "id": "openai-agent-plugins-standard-aug6",
+            "title": "OpenAI lança Agent Plugins Standard — padrão aberto para extensões de agentes portáveis entre produtos",
+            "published_date": "2026-08-06",
+            "url": "https://9to5mac.com/2026/08/06/gpt-5-turning-one-as-openai-shares-new-agent-plugins-standard/"
+        },
+        {
+            "date_reported": "2026-08-07",
+            "id": "meta-muse-code-spark-1-2-terminal-agent",
+            "title": "Meta lança Muse Code (agente terminal) + Muse Spark 1.2 — coding + debugging aprimorado, $1,25/$4,25 por M tokens",
+            "published_date": "2026-08-05",
+            "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2"
+        },
+        {
+            "date_reported": "2026-08-10",
+            "id": "claude-managed-agents-budget-advisor-geo-github-skills",
+            "title": "Claude Managed Agents — Session budgets, advisor model, inference geo e skills via GitHub (4 novidades)",
+            "published_date": "2026-08-07",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
+        {
+            "date_reported": "2026-08-10",
+            "id": "claude-code-2-1-225-gateway-spend-limit-oauth-headless",
+            "title": "Claude Code 2.1.225 — Gateway spend-limit nos avisos de uso + workspace trust prompts + correções OAuth headless/MCP",
+            "published_date": "2026-08-08",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-08-10",
+            "id": "google-deepmind-hassabis-chairman-discovery-loop-jeff-dean",
+            "title": "Google DeepMind: Hassabis vira chairman, Jeff Dean + 3 top researchers fundam Discovery Loop — Alphabet cai 5%",
+            "published_date": "2026-08-05",
+            "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
+        },
+        {
+            "date_reported": "2026-08-10",
+            "id": "claude-sonnet-5-pricing-deadline-aug31",
+            "title": "Alerta: preço promocional do Claude Sonnet 5 ($2/$10/MTok) encerra em 31/ago — passa para $3/$15 + tokenizador 30% mais intenso",
+            "published_date": "2026-08-10",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
+        {
+            "date_reported": "2026-08-11",
+            "id": "claude-invisible-watermarks-eu-ai-act-aug11",
+            "title": "Anthropic embute watermarks invisíveis em todo texto gerado pelo Claude — conformidade EU AI Act Article 50, escopo global",
+            "published_date": "2026-08-11",
+            "url": "https://cryptobriefing.com/anthropic-watermarks-claude-models-eu-ai-act/"
+        },
+        {
+            "date_reported": "2026-08-11",
+            "id": "claude-code-2-1-227-feature-flag-bash-fix",
+            "title": "Claude Code 2.1.227 — Fix de Bash em claude-code-action/GitHub runners + feature-flag com token expirado + melhorias no menu de slash-commands",
+            "published_date": "2026-08-10",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-08-11",
+            "id": "meta-muse-glimmer-30b-open-weight-local-agent",
+            "title": "Meta Muse Glimmer — 30B parâmetros, Apache 2.0, roda em GPU consumer, agente local multi-step com ferramentas",
+            "published_date": "2026-08-10",
+            "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+            "date_reported": "2026-08-12",
+            "id": "claude-sonnet-5-price-permanent-2-10",
+            "title": "Claude Sonnet 5 — preço $2/$10 por MTok passa a ser permanente (aumento de setembro cancelado)",
+            "published_date": "2026-08-10",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
+        {
+            "date_reported": "2026-08-12",
+            "id": "compliance-api-cowork-claude-code-local-sessions",
+            "title": "Compliance API Enterprise — cobre sessões locais de Cowork e Claude Code (beta)",
+            "published_date": "2026-08-11",
+            "url": "https://claude.com/blog/compliance-api-cowork-and-claude-code"
+        },
+        {
+            "date_reported": "2026-08-12",
+            "id": "claude-code-2-1-228-skills-security-session-fixes",
+            "title": "Claude Code 2.1.228 — Skills security hardening (no shadowing/sanitização) + fixes de sessão, Git Windows, cross-session messaging",
+            "published_date": "2026-08-11",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-08-12",
+            "id": "openai-gpt-56-cyber-offense-grade-model",
+            "title": "OpenAI GPT-5.6-Cyber — modelo ofensivo para segurança, 95% em benchmarks, acesso restrito via Daybreak Red, encontrou 2 CVEs reais no Chrome V8",
+            "published_date": "2026-08-10",
+            "url": "https://www.axios.com/2026/08/10/openai-gpt-astra-restrictions-safety-hacking-defenders"
+        },
+        {
+            "date_reported": "2026-08-13",
+            "id": "claude-code-2-1-229-231-plugin-command-sources-sse-keepalive",
+            "title": "Claude Code 2.1.229/231 — Plugin command sources (IDE dinâmico sem restart), hooks em self-hosted runner, SSE keepalive Vertex/Bedrock e fix MCP OAuth Slack",
+            "published_date": "2026-08-12",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-08-13",
+            "id": "grok-4-6-spacexai-long-running-agents",
+            "title": "Grok 4.6 (SpaceXAI) — Paridade com Fable 5/Sol em agentes longos, $2/$6 por MTok",
+            "published_date": "2026-08-12",
+            "url": "https://x.ai/news/grok-4-6"
+        },
+        {
+            "date_reported": "2026-08-14",
+            "id": "claude-code-2-1-232-subagent-forking-cross-session-mentions",
+            "title": "Claude Code 2.1.232 — Subagent forking por default com herança de cache + @mentions entre sessões",
+            "published_date": "2026-08-14",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-08-14",
+            "id": "claude-tag-slack-proactive-30pct-aug13",
+            "title": "Claude Tag no Slack — Engajamento proativo 30% mais eficaz com contexto de canal e standing instructions",
+            "published_date": "2026-08-13",
+            "url": "https://support.claude.com/en/articles/15594475-what-is-claude-tag"
+        },
+        {
+            "date_reported": "2026-08-14",
+            "id": "deepseek-v4-pro-0813-ga-agentic",
+            "title": "DeepSeek V4-Pro-0813 — GA com 1,6T params, 1M contexto, benchmarks agênticos próximos ao Fable 5, preço a subir",
+            "published_date": "2026-08-13",
+            "url": "https://www.techtimes.com/articles/324241/20260813/deepseek-v4-pro-0813-goes-ga-benchmark-claims-await-independent-proof.htm"
+        },
+        {
+            "date_reported": "2026-08-17",
+            "id": "claude-code-2-1-233-task-tools-removed-ntlm-fix-forward-identity",
+            "title": "Claude Code 2.1.233 — Task tools removidas de modelos novos por padrão + NTLM credential fix + forward_user_identity em gateways + GitLab MR",
+            "published_date": "2026-08-14",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-08-17",
+            "id": "claude-watermark-api-detection-upcoming",
+            "title": "API de detecção de watermark Claude anunciada — chega em breve, C2PA para imagens, modelos pré-ago recebem watermark gradualmente",
+            "published_date": "2026-08-14",
+            "url": "https://www.anthropic.com/news/claude-text-watermark"
+        },
+        {
+            "date_reported": "2026-08-17",
+            "id": "gemini-3-7-flash-coding-agents-aug13",
+            "title": "Google Gemini 3.7 Flash — DeepSWE 65.3%, 1M contexto, metade do preço da 3.6 até dez/2026 ($0,75/$3,75/MTok)",
+            "published_date": "2026-08-13",
+            "url": "https://siliconangle.com/2026/08/13/google-launches-gemini-3-7-flash-coding-ai-agent-projects/"
+        },
+        {
+            "date_reported": "2026-08-18",
+            "id": "anthropic-risk-report-aug-2026-misalignment-low",
+            "title": "Anthropic Risk Report Agosto 2026 — risco de desalinhamento sobe para 'low', Model 2 arquivado, benchmark de R&D saturado",
+            "published_date": "2026-08-14",
+            "url": "https://www.anthropic.com/aug-2026-risk-report"
+        },
+        {
+            "date_reported": "2026-08-18",
+            "id": "claude-code-2-1-234-session-auto-resume-security",
+            "title": "Claude Code 2.1.234 — Sessões retomam automaticamente após reset de limite de uso + CLAUDE_CODE_PROJECT_DIR_NAME + hardening Windows NT-namespace",
+            "published_date": "2026-08-17",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-08-19",
+            "id": "claude-platform-playground-aug18",
+            "title": "Claude Console: Workbench vira Playground — suporte completo a todos os parâmetros da Messages API + exibe SDK request e API response completos",
+            "published_date": "2026-08-18",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
+        {
+            "date_reported": "2026-08-19",
+            "id": "claude-code-2-1-235-spellcheck-cloud-session-perf",
+            "title": "Claude Code 2.1.235 — Spellcheck opcional no prompt, melhor performance em cloud sessions (ultrareview/autofix-pr), fix de highlight em prompts multilinha",
+            "published_date": "2026-08-18",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-08-19",
+            "id": "openai-gpt56-sol-ultrafast-cerebras-750tps",
+            "title": "OpenAI GPT-5.6 Sol Ultrafast via Cerebras — 750 tokens/s, 14× mais rápido que Standard, mesma inteligência, preview limitado na API sem preço definido",
+            "published_date": "2026-08-13",
+            "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai"
+        },
+        {
+            "date_reported": "2026-08-20",
+            "id": "files-api-ga-aug19",
+            "title": "Files API GA — endpoints /v1/files sem beta header, expiração nativa, 1 TB/org, 500 RPM",
+            "published_date": "2026-08-19",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
+        {
+            "date_reported": "2026-08-20",
+            "id": "skills-api-ga-aug19",
+            "title": "Skills API GA — /v1/skills e Messages API com container sem beta header; Skills via GitHub para Managed Agents já estável",
+            "published_date": "2026-08-19",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
+        {
+            "date_reported": "2026-08-20",
+            "id": "enterprise-admin-api-ga-user-management",
+            "title": "Admin API GA para Claude Enterprise — gestão programática de membros, grupos e custom roles sem beta header",
+            "published_date": "2026-08-19",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
+        {
+            "date_reported": "2026-08-20",
+            "id": "managed-agents-web-search-domain-restrictions",
+            "title": "Claude Managed Agents — allowed_domains/blocked_domains por ferramenta web_search e web_fetch",
+            "published_date": "2026-08-19",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
+        {
+            "date_reported": "2026-08-20",
+            "id": "managed-agents-sandbox-memory-stores",
+            "title": "Claude Managed Agents — Self-hosted sandboxes suportam memory stores persistentes (Python/TS/Go SDKs)",
+            "published_date": "2026-08-19",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
+        {
+            "date_reported": "2026-08-20",
+            "id": "claude-code-2-1-236-237-default-model-concise-sandbox",
+            "title": "Claude Code 2.1.236/237 — ANTHROPIC_DEFAULT_MODEL env var, output style 'Concise', sandbox wildcard read-deny, notify_when_idle cross-session",
+            "published_date": "2026-08-20",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-08-21",
+            "id": "computer-use-ga-toolset-20260801",
+            "title": "Computer Use Tool GA — computer_toolset_20260801 sem beta header, batch actions, zoom por default, configs por membro",
+            "published_date": "2026-08-19",
+            "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool"
+        },
+        {
+            "date_reported": "2026-08-21",
+            "id": "browser-use-tool-launch-toolset-20260801",
+            "title": "Browser Use Tool lançado — browser_toolset_20260801: agentes navegam browser hospedado pelo app, lendo DOM/accessibility tree, forms, tabs e downloads",
+            "published_date": "2026-08-19",
+            "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/browser-use-tool"
+        },
+        {
+            "date_reported": "2026-08-21",
+            "id": "console-session-viewer-redesign-aug19",
+            "title": "Console Session Viewer redesenhado — timeline minimap, transcript por model request, Inspector panel (custo, raw events, estatísticas por ferramenta, atividade por thread)",
+            "published_date": "2026-08-19",
+            "url": "https://platform.claude.com/docs/en/managed-agents/events-and-streaming#console-observability"
+        },
+        {
+            "date_reported": "2026-08-21",
+            "id": "claude-academy-launch-aug20",
+            "title": "Claude Academy — plataforma de cursos, tutoriais e badges para fluência prática em IA",
+            "published_date": "2026-08-20",
+            "url": "https://releasebot.io/updates/anthropic/claude"
+        },
+        {
+            "date_reported": "2026-08-21",
+            "id": "claude-code-2-1-238-memory-fix-runner-flags",
+            "title": "Claude Code 2.1.238 — Fix de vazamento de memória em sessões longas + flags de proxy para self-hosted runner + keybindingFlavor readline",
+            "published_date": "2026-08-20",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-08-24",
+            "id": "anthropic-python-sdk-v1-0-breaking-changes",
+            "title": "Anthropic Python SDK v1.0 — breaking changes: remove Text Completions, temperature/top_p/top_k no Messages, Python 3.10+, httpx→httpx2",
+            "published_date": "2026-08-20",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
+        {
+            "date_reported": "2026-08-24",
+            "id": "claude-code-2-1-239-upgrade-bedrock-billing-fix",
+            "title": "Claude Code 2.1.239 — /claude-api upgrade (Python 0.x→1.x), fix de dupla cobrança Bedrock por proxy, fullscreen em Bedrock/Vertex/Foundry, Alpine/musl",
+            "published_date": "2026-08-21",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-08-24",
+            "id": "mcp-roadmap-aug22-agent-identity-http-native",
+            "title": "MCP Roadmap (22/ago) — 5 prioridades: identidade de agente (DPoP/WIF), HTTP-native transport, agentic messaging, tool results, SDK DX",
+            "published_date": "2026-08-22",
+            "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/"
+        },
+        {
+            "date_reported": "2026-08-24",
+            "id": "openai-zero-data-retention-frontier-api-aug20",
+            "title": "OpenAI Zero Data Retention para frontier models na API — sem retenção de prompts/respostas pós-processamento + Private Safety Processing preview",
+            "published_date": "2026-08-19",
+            "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models/"
+        },
+        {
+            "date_reported": "2026-08-25",
+            "id": "claude-code-2-1-243-245-modelpicker-promptcachettl-modelpricing-keyless",
+            "title": "Claude Code 2.1.243/245 — modelPicker, promptCacheTtl/subagentPromptCacheTtl, modelPricing managed setting, keyless sign-in, binário 75% menor (~75MB), melhor uso de memória, MCP reconexão automática",
+            "published_date": "2026-08-25",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-08-26",
+            "id": "claude-code-2-1-246-stability-code-review-bedrock-vertex",
+            "title": "Claude Code 2.1.246 — /code-review no Bedrock/Vertex/Foundry/gateway, subagentes com saída parcial, auto-continue não-interativo, auto mode em /permissions",
+            "published_date": "2026-08-26",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-08-26",
+            "id": "claude-cowork-memory-editable-topics-sensitive-settings",
+            "title": "Memória no Claude Cowork — tópicos editáveis em Settings > Memory, dados sensíveis (saúde/crenças) excluídos por padrão, off para Team/Enterprise",
+            "published_date": "2026-08-25",
+            "url": "https://support.claude.com/en/articles/12138966-release-notes"
+        },
+        {
+            "date_reported": "2026-08-27",
+            "id": "claude-code-2-1-247-sendfeedback-cost-optimize-admin-api",
+            "title": "Claude Code 2.1.247 — SendFeedback tool, /claude-api cost-optimize, Admin API coverage completo, Sonnet 5 auto-compact para 1M contexto",
+            "published_date": "2026-08-26",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-08-27",
+            "id": "claude-cowork-builtin-browser-aug26",
+            "title": "Claude Cowork — Browser nativo no desktop app: navegação autônoma sem depender do browser do usuário (Pro/Max/Team/Enterprise)",
+            "published_date": "2026-08-26",
+            "url": "https://releasebot.io/updates/anthropic/claude"
+        },
+        {
+            "date_reported": "2026-08-27",
+            "id": "claude-in-chrome-ga-aug26",
+            "title": "Claude in Chrome GA — extensão Chrome com ações autônomas (ler, clicar, preencher forms), safety classifiers e defesas contra prompt injection",
+            "published_date": "2026-08-26",
+            "url": "https://releasebot.io/updates/anthropic/claude"
+        },
+        {
+            "date_reported": "2026-08-27",
+            "id": "claude-mythos5-security-enterprise-vulnerability-scanning-aug21",
+            "title": "Claude Security com Mythos 5 para Enterprise — scan de vulnerabilidades por CWE/severidade + fundo de US$35M para segurança open-source",
+            "published_date": "2026-08-21",
+            "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders"
+        },
+        {
+            "date_reported": "2026-08-27",
+            "id": "glm-5-3-flash-zai-opensource-320b-aug26",
+            "title": "Z.ai GLM-5.3-Flash — MoE 320B-A18B, MIT license, 1M contexto, multimodal, 10x mais barato, benchmarks próximos ao Claude Opus 4.8",
+            "published_date": "2026-08-26",
+            "url": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/amp/"
+        },
+        {
+            "date_reported": "2026-08-28",
+            "id": "claude-code-2-1-248-restricted-mode-usage-credits-cross-session",
+            "title": "Claude Code 2.1.248 — --restricted mode, /usage-credits Enterprise, cross-session Bedrock/Vertex/Foundry e fix de cache OAuth",
+            "published_date": "2026-08-27",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-08-28",
+            "id": "platform-personal-service-account-keys-aug27",
+            "title": "Claude Console: Personal Keys e Service Account Keys — rastreio por usuário, escopo por workspace, expiram com a conta",
+            "published_date": "2026-08-27",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
+        {
+            "date_reported": "2026-08-28",
+            "id": "sdk-files-skills-beta-headers-removed-aug27",
+            "title": "SDKs 1.2+: beta headers de Files/Skills removidos — BetaSkill→BetaContainerSkill, skills.delete() apaga todas as versões",
+            "published_date": "2026-08-27",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
+        {
+            "date_reported": "2026-08-28",
+            "id": "admin-api-sdks-org-management-aug26",
+            "title": "Admin API nos SDKs (Python/TS/Go/Java/C#) via client.beta.organization — gestão completa de org programática",
+            "published_date": "2026-08-26",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
+        {
+            "date_reported": "2026-08-28",
+            "id": "anthropic-mhs-model-hardware-standard-aug27",
+            "title": "Anthropic Model Hardware Standard (MHS) — research preview: agentes IA operam equipamentos físicos em labs e manufatura",
+            "published_date": "2026-08-27",
+            "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+        },
+        {
+            "date_reported": "2026-08-28",
+            "id": "openai-jalapeno-asic-chip-aug26",
+            "title": "OpenAI Jalapeño — primeiro chip ASIC de inferência (Broadcom): 1.5-1.9x throughput/kW e 1.7-3.6x menor latência vs Nvidia GB200",
+            "published_date": "2026-08-26",
+            "url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html"
+        }
     ]
 }
