@@ -1,6 +1,27 @@
 {
-    "last_run": "2026-09-03",
+    "last_run": "2026-09-04",
     "reported_items": [
+        {
+            "date_reported": "2026-09-04",
+            "id": "claude-code-2-1-260-diff-panel-cache-diag-security-fixes",
+            "title": "Claude Code 2.1.260 — Diff Panel (/diff), diagnóstico de cache miss, fix segurança Bash+zsh, fix cache Fable 5.1 pós-tool-result, revert npm run build, 35+ correções",
+            "published_date": "2026-09-03",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-09-04",
+            "id": "meta-muse-spark-1-3-agentic-coding-fewer-tool-calls",
+            "title": "Meta Muse Spark 1.3 — modelo agentic de coding: ~20% menos tool calls, ~25% menos tokens vs 1.2, 1M contexto, disponível via Meta Model API",
+            "published_date": "2026-09-02",
+            "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3"
+        },
+        {
+            "date_reported": "2026-09-04",
+            "id": "openai-astra-critical-cyber-threshold-sept1",
+            "title": "OpenAI Astra — primeiro modelo a cruzar limiar 'Critical' do Preparedness Framework: achou 2 zero-days autonomamente, ExploitBench 100%, acesso restrito",
+            "published_date": "2026-09-01",
+            "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/"
+        },
         {
             "date_reported": "2026-09-03",
             "id": "claude-code-2-1-259-managed-mcp-headless-subagent-force",
@@ -49,48 +70,6 @@
             "title": "Claude Code 2.1.258 — fix lançamento macOS Monterey + fix sessões remotas/agendadas 'user messages must have non-empty content'",
             "published_date": "2026-09-01",
             "url": "https://code.claude.com/docs/en/changelog"
-        },
-        {
-            "date_reported": "2026-08-10",
-            "id": "claude-sonnet-5-pricing-deadline-aug31",
-            "title": "Alerta: preço promocional do Claude Sonnet 5 ($2/$10/MTok) encerra em 31/ago — passa para $3/$15 + tokenizador 30% mais intenso",
-            "published_date": "2026-08-10",
-            "url": "https://platform.claude.com/docs/en/release-notes/overview"
-        },
-        {
-            "date_reported": "2026-08-11",
-            "id": "claude-invisible-watermarks-eu-ai-act-aug11",
-            "title": "Anthropic embute watermarks invisíveis em todo texto gerado pelo Claude — conformidade EU AI Act Article 50, escopo global",
-            "published_date": "2026-08-11",
-            "url": "https://cryptobriefing.com/anthropic-watermarks-claude-models-eu-ai-act/"
-        },
-        {
-            "date_reported": "2026-08-11",
-            "id": "claude-code-2-1-227-feature-flag-bash-fix",
-            "title": "Claude Code 2.1.227 — Fix de Bash em claude-code-action/GitHub runners + feature-flag com token expirado + melhorias no menu de slash-commands",
-            "published_date": "2026-08-10",
-            "url": "https://code.claude.com/docs/en/changelog"
-        },
-        {
-            "date_reported": "2026-08-11",
-            "id": "meta-muse-glimmer-30b-open-weight-local-agent",
-            "title": "Meta Muse Glimmer — 30B parâmetros, Apache 2.0, roda em GPU consumer, agente local multi-step com ferramentas",
-            "published_date": "2026-08-10",
-            "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
-        },
-        {
-            "date_reported": "2026-08-12",
-            "id": "claude-sonnet-5-price-permanent-2-10",
-            "title": "Claude Sonnet 5 — preço $2/$10 por MTok passa a ser permanente (aumento de setembro cancelado)",
-            "published_date": "2026-08-10",
-            "url": "https://platform.claude.com/docs/en/release-notes/overview"
-        },
-        {
-            "date_reported": "2026-08-12",
-            "id": "compliance-api-cowork-claude-code-local-sessions",
-            "title": "Compliance API Enterprise — cobre sessões locais de Cowork e Claude Code (beta)",
-            "published_date": "2026-08-11",
-            "url": "https://claude.com/blog/compliance-api-cowork-and-claude-code"
         },
         {
             "date_reported": "2026-08-12",
