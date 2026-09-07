@@ -1,6 +1,20 @@
 {
-    "last_run": "2026-09-04",
+    "last_run": "2026-09-07",
     "reported_items": [
+        {
+            "date_reported": "2026-09-07",
+            "id": "claude-code-2-1-261-263-skill-doctor-output-limits",
+            "title": "Claude Code 2.1.261/263 — /skill-doctor (custo de skills ociosas), bashOutputMaxChars/taskOutputMaxChars até 128K, --append-subagent-system-prompt-file, diagnóstico de org policy",
+            "published_date": "2026-09-05",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-09-07",
+            "id": "ant-apply-cli-iac-managed-agents-v1-30",
+            "title": "ant CLI v1.30.0 — ant apply: IaC Terraform-style para criar/atualizar Managed Agents, skills, memory stores e deployments via arquivos no repo + claude-lock.json para CI/CD",
+            "published_date": "2026-09-03",
+            "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/cli/apply"
+        },
         {
             "date_reported": "2026-09-04",
             "id": "claude-code-2-1-260-diff-panel-cache-diag-security-fixes",
@@ -406,20 +420,6 @@
             "title": "Salesforce Claudeforce — plugin com 37 skills de CRM dentro do Claude via MCP, open beta setembro 2026, $5B investimento Salesforce",
             "published_date": "2026-08-26",
             "url": "https://www.salesforce.com/news/press-releases/2026/08/26/salesforce-and-anthropic-announce-claudeforce/"
-        },
-        {
-            "date_reported": "2026-09-01",
-            "id": "compliance-api-microsoft365-claude-science-aug26",
-            "title": "Compliance API Enterprise cobre Claude Science e Claude for Microsoft 365 (Excel/Word/PowerPoint/Outlook) em beta",
-            "published_date": "2026-08-26",
-            "url": "https://platform.claude.com/docs/en/release-notes/overview"
-        },
-        {
-            "date_reported": "2026-09-01",
-            "id": "claude-code-2-1-252-bash-mac-remote-control-fixes",
-            "title": "Claude Code 2.1.252 — fix de Bash 'task output swap refused' no Mac, 'always allow' não salvar e Remote Control travando em conexão degradada",
-            "published_date": "2026-08-31",
-            "url": "https://code.claude.com/docs/en/changelog"
         }
     ]
 }
