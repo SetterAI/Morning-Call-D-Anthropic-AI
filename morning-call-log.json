@@ -1,6 +1,20 @@
 {
-    "last_run": "2026-09-08",
+    "last_run": "2026-09-09",
     "reported_items": [
+        {
+            "date_reported": "2026-09-09",
+            "id": "claude-code-2-1-265-plugin-dir-archive-tool-cap",
+            "title": "Claude Code 2.1.265 — plugin directory, 1 GB tool-results cap, auto-archive sessões inativas (14 dias), gateway/telemetry melhorado, retomada de sessão mais rápida",
+            "published_date": "2026-09-08",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-09-09",
+            "id": "claude-code-2-1-266-gateway-hotfix",
+            "title": "Claude Code 2.1.266 — hotfix: CLAUDE_CODE_USE_GATEWAY revertido a comportamento neutro após regressão em 2.1.265 que quebrava API key e custom auth headers",
+            "published_date": "2026-09-09",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
         {
             "date_reported": "2026-09-07",
             "id": "claude-code-2-1-261-263-skill-doctor-output-limits",
