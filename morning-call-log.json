@@ -1,6 +1,34 @@
 {
-    "last_run": "2026-09-11",
+    "last_run": "2026-09-14",
     "reported_items": [
+        {
+            "date_reported": "2026-09-14",
+            "id": "claude-code-2-1-269-270-plugin-eval-workflow-agents-cache-fixes",
+            "title": "Claude Code 2.1.269/270 — claude plugin eval, CLAUDE_CODE_WORKFLOW_MAX_CONCURRENT_AGENTS (1-256), output-style, correções críticas de prompt cache em sessões retomadas, fix segurança em plugin archives, agent map VSCode",
+            "published_date": "2026-09-11",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-09-14",
+            "id": "managed-agents-auto-permission-sessions-connect-sept10",
+            "title": "Managed Agents permission policy `auto` + ant beta:sessions connect — servidor avalia cada tool/MCP call e executa/nega/pausa; terminal attach a sessões vivas com aprovação em tempo real",
+            "published_date": "2026-09-10",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
+        {
+            "date_reported": "2026-09-14",
+            "id": "dario-we-must-pace-frontier-sept12",
+            "title": "Dario Amodei 'We Must Pace the Frontier' — CEO da Anthropic defende desaceleração deliberada de capacidades até alinhamento e avaliações independentes alcançarem",
+            "published_date": "2026-09-12",
+            "url": "https://aiweekly.co/ai-news-today"
+        },
+        {
+            "date_reported": "2026-09-14",
+            "id": "openai-managed-api-orchestration-research-intern-sept12",
+            "title": "OpenAI: managed API para orquestração de agentes + research intern autônomo — rival ao Anthropic Managed Agents; agente executa projetos de pesquisa estruturados de forma autônoma",
+            "published_date": "2026-09-12",
+            "url": "https://aiagentstore.ai/ai-agent-news/this-week"
+        },
         {
             "date_reported": "2026-09-11",
             "id": "anthropic-threat-intel-sept2026-misuse-report",
