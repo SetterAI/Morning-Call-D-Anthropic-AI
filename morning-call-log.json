@@ -1,6 +1,20 @@
 {
-    "last_run": "2026-09-18",
+    "last_run": "2026-09-21",
     "reported_items": [
+        {
+            "date_reported": "2026-09-21",
+            "id": "claude-code-2-1-277-278-agents-md-automode-server-classifier-fixes",
+            "title": "Claude Code 2.1.277/278 — AGENTS.md support, auto mode → server-side classifier (zero overhead API/Enterprise), ~50 critical fixes (edit tool escaping, WebFetch/WebSearch cloud, plugins, zsh sandbox, Windows)",
+            "published_date": "2026-09-19",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-09-21",
+            "id": "anthropic-accenture-embedded-evaluators-2b-5years",
+            "title": "Anthropic + Accenture: $2B/5 anos — avaliadores Accenture embedded na Anthropic para red-team, alinhamento e safeguards; implementa proposta 'pace the frontier' do Dario",
+            "published_date": "2026-09-18",
+            "url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
+        },
         {
             "date_reported": "2026-09-18",
             "id": "claude-projects-coordinator-parallel-threads-beta-sept17",
@@ -406,41 +420,6 @@
             "title": "Computer Use Tool GA — computer_toolset_20260801 sem beta header, batch actions, zoom por default, configs por membro",
             "published_date": "2026-08-19",
             "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/computer-use-tool"
-        },
-        {
-            "date_reported": "2026-08-21",
-            "id": "browser-use-tool-launch-toolset-20260801",
-            "title": "Browser Use Tool lançado — browser_toolset_20260801: agentes navegam browser hospedado pelo app, lendo DOM/accessibility tree, forms, tabs e downloads",
-            "published_date": "2026-08-19",
-            "url": "https://platform.claude.com/docs/en/agents-and-tools/tool-use/browser-use-tool"
-        },
-        {
-            "date_reported": "2026-08-21",
-            "id": "console-session-viewer-redesign-aug19",
-            "title": "Console Session Viewer redesenhado — timeline minimap, transcript por model request, Inspector panel (custo, raw events, estatísticas por ferramenta, atividade por thread)",
-            "published_date": "2026-08-19",
-            "url": "https://platform.claude.com/docs/en/managed-agents/events-and-streaming#console-observability"
-        },
-        {
-            "date_reported": "2026-08-21",
-            "id": "claude-academy-launch-aug20",
-            "title": "Claude Academy — plataforma de cursos, tutoriais e badges para fluência prática em IA",
-            "published_date": "2026-08-20",
-            "url": "https://releasebot.io/updates/anthropic/claude"
-        },
-        {
-            "date_reported": "2026-08-21",
-            "id": "claude-code-2-1-238-memory-fix-runner-flags",
-            "title": "Claude Code 2.1.238 — Fix de vazamento de memória em sessões longas + flags de proxy para self-hosted runner + keybindingFlavor readline",
-            "published_date": "2026-08-20",
-            "url": "https://code.claude.com/docs/en/changelog"
-        },
-        {
-            "date_reported": "2026-08-20",
-            "id": "enterprise-admin-api-ga-user-management",
-            "title": "Admin API GA para Claude Enterprise — gestão programática de membros, grupos e custom roles sem beta header",
-            "published_date": "2026-08-19",
-            "url": "https://platform.claude.com/docs/en/release-notes/overview"
         }
     ]
 }
