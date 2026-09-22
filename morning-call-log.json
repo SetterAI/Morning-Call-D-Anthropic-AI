@@ -1,6 +1,13 @@
 {
-    "last_run": "2026-09-21",
+    "last_run": "2026-09-22",
     "reported_items": [
+        {
+            "date_reported": "2026-09-22",
+            "id": "xai-grok-4-7-coding-agents-sept21",
+            "title": "xAI Grok 4.7 — 2.1T params (+40%), CursorBench 46.3% vs 40.4%, DeepSWE 71%, $2/$6/MTok, disponível no Cursor/Grok API; foco em coding, agentes e knowledge work",
+            "published_date": "2026-09-21",
+            "url": "https://sqmagazine.co.uk/xai-launches-grok-4-7-coding-model/"
+        },
         {
             "date_reported": "2026-09-21",
             "id": "claude-code-2-1-277-278-agents-md-automode-server-classifier-fixes",
