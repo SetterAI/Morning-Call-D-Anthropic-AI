@@ -1,6 +1,27 @@
 {
-    "last_run": "2026-09-22",
+    "last_run": "2026-09-23",
     "reported_items": [
+        {
+            "date_reported": "2026-09-23",
+            "id": "claude-opus-5-5-launch-sept22",
+            "title": "Claude Opus 5.5 — performance Fable 5.1 com 40% menos custo ($4/$20/MTok, cache $0.20/MTok), 1M ctx, 128k output, 30% mais rápido, 85% menos boundary violations, programas Cyber/Life Sciences",
+            "published_date": "2026-09-22",
+            "url": "https://www.anthropic.com/news/claude-opus-5-5"
+        },
+        {
+            "date_reported": "2026-09-23",
+            "id": "claude-code-2-1-280-opus55-mcp-desc-length-100fixes",
+            "title": "Claude Code 2.1.280 — claude-opus-5-5 como default Opus, CLAUDE_CODE_MAX_MCP_DESCRIPTION_LENGTH (cap 2048 chars customizável), UI improvements em /skills /artifacts /workflows, 100+ fixes de prompt cache/session/file ops",
+            "published_date": "2026-09-22",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-09-23",
+            "id": "openai-gpt6-sol-luna-launch-sept22",
+            "title": "OpenAI GPT-6 Sol ($2/$10/MTok) e Luna ($0,10/$0,50/MTok) — família GPT-6 completa (+ Astra $10/$50), 50% mais baratos, Sol com ~50% menos erros que GPT-5.6 Sol, melhorias em coding/computer use/factualidade",
+            "published_date": "2026-09-22",
+            "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"
+        },
         {
             "date_reported": "2026-09-22",
             "id": "xai-grok-4-7-coding-agents-sept21",
