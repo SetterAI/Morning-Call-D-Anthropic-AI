@@ -1,6 +1,27 @@
 {
-    "last_run": "2026-10-01",
+    "last_run": "2026-10-02",
     "reported_items": [
+        {
+            "date_reported": "2026-10-02",
+            "id": "claude-code-2-1-287-mods-system-you-should-know-oct01",
+            "title": "Claude Code 2.1.287 — Mods: plugins TypeScript interceptam tool calls, modificam UI, reescrevem prompts; 'You should know' side-agent builtin; URL auth flows MCP (protocolo 2025-11-25); fix rm wildcard, thinking drop entre Opus/Sonnet",
+            "published_date": "2026-10-01",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-10-02",
+            "id": "claude-for-government-ga-fedramp-high-oct02",
+            "title": "Claude for Government GA — FedRAMP High, admin por departamento, sem seat fees (uso por incrementos fixos + spend caps), Claude Code CLI e Claude for MS365 em early access no ambiente gov",
+            "published_date": "2026-09-30",
+            "url": "https://releasebot.io/updates/anthropic/claude"
+        },
+        {
+            "date_reported": "2026-10-02",
+            "id": "anthropic-finance-agents-plugins-pitchbook-kyc-oct02",
+            "title": "10 novos plugins financeiros — Cowork + Claude Code: pitchbooks, triagem KYC, fechamento mensal (month-end close); disponíveis no marketplace ou como cookbooks de Managed Agents",
+            "published_date": "2026-10-01",
+            "url": "https://www.anthropic.com/news/finance-agents"
+        },
         {
             "date_reported": "2026-10-01",
             "id": "google-gemini-4-argon-restricted-fairwind-cybersecurity-oct01",
