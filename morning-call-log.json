@@ -1,6 +1,27 @@
 {
-    "last_run": "2026-10-09",
+    "last_run": "2026-10-12",
     "reported_items": [
+        {
+            "date_reported": "2026-10-12",
+            "id": "anthropic-cyber-mission-cidp-oss-scanner-oct08",
+            "title": "Anthropic Cyber Mission — Critical Infrastructure Defense Program com 11 parceiros (Accenture, Booz Allen, CrowdStrike, Deloitte, Dragos, Hitachi, Insane Cyber, Nozomi, Palo Alto, PwC, Rockwell) e OSS Scanner gratuito para projetos open-source",
+            "published_date": "2026-10-08",
+            "url": "https://www.anthropic.com/news"
+        },
+        {
+            "date_reported": "2026-10-12",
+            "id": "anthropic-usage-policy-2026-hardware-abuse-nov12",
+            "title": "Usage Policy 2026 atualizada — proibição de abuso a modelos Claude, regras para hardware físico controlado por agentes, campanhas enganosas consolidadas, armas/vigilância ampliadas; vigência 12 Nov",
+            "published_date": "2026-10-08",
+            "url": "https://aiweekly.co/alerts/anthropics-2026-policy-update-targets-agentic-hardware"
+        },
+        {
+            "date_reported": "2026-10-12",
+            "id": "mistral-large-4-preview-1t-params-open-weights-oct06",
+            "title": "Mistral Large 4 (ML4, 'Le Chonk') preview — 1T params, 52B ativos, 1M contexto, multimodal, 160+ idiomas; open weights até fim de outubro; forte em coding, cyber, finance",
+            "published_date": "2026-10-06",
+            "url": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html"
+        },
         {
             "date_reported": "2026-10-09",
             "id": "claude-dashboards-motion-beta-oct08",
@@ -399,55 +420,6 @@
             "title": "OpenAI: managed API para orquestração de agentes + research intern autônomo — rival ao Anthropic Managed Agents; agente executa projetos de pesquisa estruturados de forma autônoma",
             "published_date": "2026-09-12",
             "url": "https://aiagentstore.ai/ai-agent-news/this-week"
-        },
-        {
-            "date_reported": "2026-09-11",
-            "id": "anthropic-threat-intel-sept2026-misuse-report",
-            "title": "Anthropic Threat Intelligence Set/2026 — operações reais de atores maliciosos explorando Claude, com casos e evolução vs. 2025",
-            "published_date": "2026-09-10",
-            "url": "https://www.anthropic.com/news"
-        },
-        {
-            "date_reported": "2026-09-11",
-            "id": "claude-enterprise-smart-reports-beta-sept10",
-            "title": "Smart Reports (Beta) no Enterprise — análise automática de uso da org: custos, produtividade, fricções e oportunidades de shared skills",
-            "published_date": "2026-09-10",
-            "url": "https://support.claude.com/en/articles/12138966-release-notes"
-        },
-        {
-            "date_reported": "2026-09-11",
-            "id": "claude-code-2-1-268-mcp-oauth-webfetch-gateway-pricing-plugin-json",
-            "title": "Claude Code 2.1.268 — fix MCP OAuth 'No available ports', WebFetch timeout 300s configurável, gateway com pricing para clientes autenticados, plugin --json em todos os comandos",
-            "published_date": "2026-09-10",
-            "url": "https://code.claude.com/docs/en/changelog"
-        },
-        {
-            "date_reported": "2026-09-10",
-            "id": "claude-code-2-1-267-max-effort-level-prompt-cache-fixes",
-            "title": "Claude Code 2.1.267 — maxEffortLevel (teto de esforço por provider para a org), --system-prompt-snapshot off, 30+ fixes de prompt-cache, MCP, VSCode e Claude Tag",
-            "published_date": "2026-09-09",
-            "url": "https://code.claude.com/docs/en/changelog"
-        },
-        {
-            "date_reported": "2026-09-10",
-            "id": "meta-muse-personal-ai-agent-sept8",
-            "title": "Meta Muse — agente pessoal de IA lançado em 08/set: web, iOS/Android, WhatsApp, óculos Meta; memória persistente e ações autônomas",
-            "published_date": "2026-09-08",
-            "url": "https://llm-stats.com/ai-news"
-        },
-        {
-            "date_reported": "2026-09-09",
-            "id": "claude-code-2-1-265-plugin-dir-archive-tool-cap",
-            "title": "Claude Code 2.1.265 — plugin directory, 1 GB tool-results cap, auto-archive sessões inativas (14 dias), gateway/telemetry melhorado, retomada de sessão mais rápida",
-            "published_date": "2026-09-08",
-            "url": "https://code.claude.com/docs/en/changelog"
-        },
-        {
-            "date_reported": "2026-09-09",
-            "id": "claude-code-2-1-266-gateway-hotfix",
-            "title": "Claude Code 2.1.266 — hotfix: CLAUDE_CODE_USE_GATEWAY revertido a comportamento neutro após regressão em 2.1.265 que quebrava API key e custom auth headers",
-            "published_date": "2026-09-09",
-            "url": "https://code.claude.com/docs/en/changelog"
         }
     ]
 }
