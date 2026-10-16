@@ -1,6 +1,41 @@
 {
-    "last_run": "2026-10-15",
+    "last_run": "2026-10-16",
     "reported_items": [
+        {
+            "date_reported": "2026-10-16",
+            "id": "claude-code-2-1-301-otel-tool-decision-multiline-mods-latex-vscode-oct15",
+            "title": "Claude Code 2.1.301 — OTel tool_decision attributes (classifier_verdict, permission_mode), multi-linha em mods (rows), LaTeX no VS Code/JetBrains",
+            "published_date": "2026-10-15",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-10-16",
+            "id": "anthropic-metr-securebio-independent-evaluators-employee-access-oct15",
+            "title": "Anthropic dá acesso employee-like à METR (6 avaliadores) e SecureBio para avaliação independente de riscos — publicação sem veto da Anthropic",
+            "published_date": "2026-10-15",
+            "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+        },
+        {
+            "date_reported": "2026-10-16",
+            "id": "meta-muse-spark-open-816b-openweight-apple-silicon-oct15",
+            "title": "Meta lança Muse Spark Open — 816B params, open-weight, 1M contexto, otimizado para Apple M5 Ultra (≥1TB RAM)",
+            "published_date": "2026-10-15",
+            "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs"
+        },
+        {
+            "date_reported": "2026-10-16",
+            "id": "scytale-mcp-server-compliance-audit-data-oct14",
+            "title": "Scytale lança MCP server com acesso scoped read-only a dados de compliance — prontidão de auditoria, controles e políticas via linguagem natural",
+            "published_date": "2026-10-14",
+            "url": "https://www.helpnetsecurity.com/2026/10/14/scytale-mcp/"
+        },
+        {
+            "date_reported": "2026-10-16",
+            "id": "azure-mcp-server-3-0-stable-terraform-backup-recovery-oct12",
+            "title": "Azure MCP Server 3.0 stable — ferramentas para Terraform, backup e recovery de infraestrutura Azure em clientes MCP",
+            "published_date": "2026-10-12",
+            "url": "https://devblogs.microsoft.com/azure-sdk/azure-mcp-server-3-0-stable-release/"
+        },
         {
             "date_reported": "2026-10-15",
             "id": "claude-code-2-1-300-virtualtext-prompt-change-otel-genai-advisor-aws-slack-connect-oct14",
@@ -385,41 +420,6 @@
             "title": "Anthropic + Accenture: $2B/5 anos — avaliadores Accenture embedded na Anthropic para red-team, alinhamento e safeguards; implementa proposta 'pace the frontier' do Dario",
             "published_date": "2026-09-18",
             "url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
-        },
-        {
-            "date_reported": "2026-09-18",
-            "id": "claude-projects-coordinator-parallel-threads-beta-sept17",
-            "title": "Claude Projects Coordinator (beta) — orquestra múltiplas sessões Claude Code em paralelo, cada thread em branch próprio com PRs, memória compartilhada e autonomia ajustável; rollout Pro/Max",
-            "published_date": "2026-09-17",
-            "url": "https://devops.com/anthropic-adds-a-coordinator-to-claude-projects-for-running-ai-work-in-parallel/"
-        },
-        {
-            "date_reported": "2026-09-18",
-            "id": "claude-code-2-1-275-276-skills-sync-send-now-gateway-hotfix",
-            "title": "Claude Code 2.1.275/276 — sync de skills/plugins da conta claude.ai para sessões terminal, send-now Ctrl+Enter, /plugin install --marketplace, hotfix 400 em proxy/gateway",
-            "published_date": "2026-09-17",
-            "url": "https://code.claude.com/docs/en/changelog"
-        },
-        {
-            "date_reported": "2026-09-18",
-            "id": "claude-leads-26pct-anthropic-rd-ai-measurements-disclosure",
-            "title": "Claude lidera 26% do P&D da Anthropic (ago/2026) + proposta de métricas públicas de ritmo de desenvolvimento — Anthropic propõe transparência e auditores externos",
-            "published_date": "2026-09-18",
-            "url": "https://www.clickorlando.com/business/2026/09/18/anthropic-says-its-model-claude-is-helping-to-build-the-next-version-of-itself/"
-        },
-        {
-            "date_reported": "2026-09-17",
-            "id": "claude-code-2-1-274-mcp-startup-wait-otel-session-fixes",
-            "title": "Claude Code 2.1.274 — CLAUDE_CODE_MCP_STARTUP_WAIT_MS, effort em spans OTel, managed_settings_resolved event, ~25 fixes críticos de sessão/MCP/background agents",
-            "published_date": "2026-09-17",
-            "url": "https://code.claude.com/docs/en/changelog"
-        },
-        {
-            "date_reported": "2026-09-17",
-            "id": "claude-cowork-chat-merge-docs-slides-beta-sept16",
-            "title": "Claude Cowork + Chat Unificados — Claude Docs e Claude Slides em beta (exportação PPTX/PDF), Claude decide tipo de tarefa automaticamente; rollout Pro/Max primeiro",
-            "published_date": "2026-09-16",
-            "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/"
         }
     ]
 }
