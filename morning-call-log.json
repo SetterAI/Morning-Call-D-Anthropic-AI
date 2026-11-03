@@ -1,6 +1,20 @@
 {
-    "last_run": "2026-11-02",
+    "last_run": "2026-11-03",
     "reported_items": [
+        {
+            "date_reported": "2026-11-03",
+            "id": "claude-code-2-1-317-cost-report-api-message-threads-otel-agent-sdk-nov03",
+            "title": "Claude Code 2.1.317 — Cost Report API por developer/IdP group, onFailure:block no Agent SDK, 4 novos atributos OTel (plan/seat_type/provider/custom_base_url), 62 bug fixes incluindo MCP Desktop desconectando",
+            "published_date": "2026-11-03",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-11-03",
+            "id": "message-threads-beta-messages-api-ttft-35pct-nov02",
+            "title": "Message threads (beta) na Messages API — agentes enviam só mensagens novas por turno, TTFT cai ~35% em conversas de 500k–1M tokens; header message-threads-2026-08-12; thread expira 5 min",
+            "published_date": "2026-11-02",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
         {
             "date_reported": "2026-11-02",
             "id": "claude-code-2-1-316-subagent-effort-pooled-budget-layered-policy-oct31",
