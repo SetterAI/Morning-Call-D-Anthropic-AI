@@ -1,6 +1,20 @@
 {
-    "last_run": "2026-11-03",
+    "last_run": "2026-11-04",
     "reported_items": [
+        {
+            "date_reported": "2026-11-04",
+            "id": "claude-code-2-1-318-assume-role-mantle-effort-fork-loginexpiresat-nov04",
+            "title": "Claude Code 2.1.318 — assume_role em gateways mantle (AWS cross-account + custo por dev), effort em $.model.fork para mods, loginExpiresAt na CLI, fix --continue perdendo conversas após retries",
+            "published_date": "2026-11-04",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-11-04",
+            "id": "text-watermark-api-mythos5-opus47-sonnet46-nov03",
+            "title": "Text watermark em texto gerado pela Claude API (Nov 3) — Claude Mythos 5, Opus 4.7 e Sonnet 4.6 assinam texto gerado com marca d'água detectável; exceção para temperature/top_p/top_k não-padrão em Sonnet 4.6",
+            "published_date": "2026-11-03",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
         {
             "date_reported": "2026-11-03",
             "id": "claude-code-2-1-317-cost-report-api-message-threads-otel-agent-sdk-nov03",
