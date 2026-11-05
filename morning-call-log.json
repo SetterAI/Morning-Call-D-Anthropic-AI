@@ -1,5 +1,5 @@
 {
-    "last_run": "2026-11-04",
+    "last_run": "2026-11-05",
     "reported_items": [
         {
             "date_reported": "2026-11-04",
@@ -420,48 +420,6 @@
             "title": "Claude Haiku 5.5 — modelo small mais capaz da Anthropic, $0,10/$0,50/MTok, 1M contexto",
             "published_date": "2026-10-07",
             "url": "https://www.anthropic.com/news"
-        },
-        {
-            "date_reported": "2026-10-08",
-            "id": "api-credits-max-team-monthly-oct07",
-            "title": "Créditos de API mensais incluídos nos planos Max e Team — acesso à Claude Platform para agentes e apps próprias",
-            "published_date": "2026-10-07",
-            "url": "https://support.claude.com/en/articles/12138966-release-notes"
-        },
-        {
-            "date_reported": "2026-10-08",
-            "id": "claude-code-2-1-293-haiku55-isdeferred-mods-fixes",
-            "title": "Claude Code 2.1.293 — Haiku 5.5 default, isDeferred em $.tool.register para mods, agentType em subagentStatusLine, memory leak fix MCP HTTP",
-            "published_date": "2026-10-07",
-            "url": "https://code.claude.com/docs/en/changelog"
-        },
-        {
-            "date_reported": "2026-10-08",
-            "id": "claude-code-2-1-294-hooks-instructions-fix-stop-hooks",
-            "title": "Claude Code 2.1.294 — fix crítico em hooks prompt/agent escritos como instruções de linguagem natural, melhoria em Stop hooks",
-            "published_date": "2026-10-08",
-            "url": "https://code.claude.com/docs/en/changelog"
-        },
-        {
-            "date_reported": "2026-10-07",
-            "id": "claude-code-2-1-292-effort-marketplace-caching-200artifacts-50fixes",
-            "title": "Claude Code 2.1.292 — parâmetro effort no Agent tool, --marketplace em plugin install, prompt caching em $.model.complete para mods, workflow agents em agent.spawn, artifacts 50→200, 50+ security fixes",
-            "published_date": "2026-10-06",
-            "url": "https://code.claude.com/docs/en/changelog"
-        },
-        {
-            "date_reported": "2026-10-07",
-            "id": "anthropic-cyber-verification-program-expansion-oct06",
-            "title": "Anthropic expande Cyber Verification Program — capacidades avançadas de cyber e classificadores reduzidos para profissionais de segurança verificados",
-            "published_date": "2026-10-06",
-            "url": "https://www.anthropic.com/news"
-        },
-        {
-            "date_reported": "2026-10-07",
-            "id": "reflection-ai-beam-open-weight-apache2-oct2026",
-            "title": "Reflection AI lança Beam — modelo open-weight Apache 2.0 para coding e agentes, de startup $25B fundada por ex-pesquisadores do DeepMind; compete com modelos chineses em custo/eficiência",
-            "published_date": "2026-10-07",
-            "url": "https://therundown.ai/articles/the-deepseek-of-the-west-finally-has-a-model"
-        },
+        }
     ]
 }
