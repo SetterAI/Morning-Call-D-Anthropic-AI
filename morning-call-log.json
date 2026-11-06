@@ -1,6 +1,13 @@
 {
-    "last_run": "2026-11-05",
+    "last_run": "2026-11-06",
     "reported_items": [
+        {
+            "date_reported": "2026-11-06",
+            "id": "enterprise-ip-allowlist-beta-admin-api-signout-nov05",
+            "title": "IP Allowlist Enterprise (beta) — restrição de API key por faixa IP no Claude Console; Admin API: forçar logout global de membros em todos os dispositivos",
+            "published_date": "2026-11-05",
+            "url": "https://platform.claude.com/docs/en/manage-claude/ip-allowlist"
+        },
         {
             "date_reported": "2026-11-04",
             "id": "claude-code-2-1-318-assume-role-mantle-effort-fork-loginexpiresat-nov04",
