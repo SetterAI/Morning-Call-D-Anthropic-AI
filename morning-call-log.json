@@ -1,6 +1,41 @@
 {
-    "last_run": "2026-11-09",
+    "last_run": "2026-11-10",
     "reported_items": [
+        {
+            "date_reported": "2026-11-10",
+            "id": "anthropic-ipo-roadshow-nasdaq-ant-nov10",
+            "title": "Anthropic inicia roadshow do IPO (ticker ANT, Nasdaq) — oferta de ações Classe A, roadshow lançado em 10/nov",
+            "published_date": "2026-11-10",
+            "url": "https://www.anthropic.com/news"
+        },
+        {
+            "date_reported": "2026-11-10",
+            "id": "claude-code-2-1-321-322-fable-default-vertex-fastmode-nov09-10",
+            "title": "Claude Code 2.1.321/2.1.322 — Fable 5.2 vira modelo padrão do alias fable; fast mode disponível no Vertex (global/us/eu); mods não carregam em dontAsk",
+            "published_date": "2026-11-10",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
+        {
+            "date_reported": "2026-11-10",
+            "id": "fable-mythos-5-2-prefix-check-enforcement-api-nov09",
+            "title": "Prefix check obrigatório nos modelos Fable 5.2 e Mythos 5.2 — erro 400 ao reenviar thinking block após editar system/tools/mensagem anterior",
+            "published_date": "2026-11-09",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
+        {
+            "date_reported": "2026-11-10",
+            "id": "claude-fable-5-2-mythos-5-2-launch-nov09",
+            "title": "Claude Fable 5.2 e Mythos 5.2 lançados — 1M ctx, thinking adaptativo sempre ativo, $8/$40 por MTok, fast mode 2.5× em Fable 5.2; Mythos 5.2 restrito a orgs verificadas",
+            "published_date": "2026-11-09",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
+        {
+            "date_reported": "2026-11-10",
+            "id": "claude-design-docs-slides-any-conversation-nov06",
+            "title": "Claude Design/Docs/Slides disponível em qualquer conversa — inclusive no Claude Code e aba Artifacts; rollout gradual para planos Pro e Max",
+            "published_date": "2026-11-06",
+            "url": "https://releasebot.io/updates/anthropic/claude"
+        },
         {
             "date_reported": "2026-11-09",
             "id": "amazon-ecs-fargate-mcp-server-enterprise-datalake-nov07",
@@ -371,55 +406,6 @@
             "title": "Google Gemini 4 Argon GA — disponível ao público via Gemini API/AI Studio/Antigravity; preço $2/$10/M até 30/nov (dobra para $4/$20 em dez); cache $0,10/M; #1 Vals Finance Agent v2; 87% Embodied Reasoning",
             "published_date": "2026-10-13",
             "url": "https://venturebeat.com/technology/google-makes-gemini-4-argon-broadly-available-with-limited-time-low-api-pricing-of-2-10-per-1m-token"
-        },
-        {
-            "date_reported": "2026-10-13",
-            "id": "meta-muse-wonder-wonder-full-frontier-oct12",
-            "title": "Meta Muse Wonder & Wonder Full — modelos frontier lançados via Meta Model API e Muse Code, scores 52/56 no Artificial Analysis Intelligence Index v4.3",
-            "published_date": "2026-10-12",
-            "url": "https://bloomberg.com/news/articles/2026-10-12/meta-says-new-muse-model-reaches-ai-frontier-after-14-month-push"
-        },
-        {
-            "date_reported": "2026-10-13",
-            "id": "anthropic-distillation-defense-zai-classifier-api-restrict-oct12",
-            "title": "Anthropic nomeia Z.ai (Zhipu/GLM-5.3) como distiladora do Claude e lança defesas: restrição de contexto retroativo (novas contas API pós-31/ago), classificador 2 estágios FP<0,1%, banimentos em massa — corte de 90-99% na extração",
-            "published_date": "2026-10-12",
-            "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks"
-        },
-        {
-            "date_reported": "2026-10-13",
-            "id": "claude-code-2-1-296-cache-repricing-mcp-4096-oct09",
-            "title": "Claude Code 2.1.296 — Sonnet 5.5 cache reads $0,20→$0,10/MTok, MCP desc 2048→4096 chars, subagent autoCompactWindow, CLAUDE_CODE_WORKFLOW_SUBAGENT_MODEL, Read allow_large, fix PreToolUse deny, recusa edição em arquivos non-UTF-8",
-            "published_date": "2026-10-09",
-            "url": "https://code.claude.com/docs/en/changelog"
-        },
-        {
-            "date_reported": "2026-10-13",
-            "id": "claude-docs-slides-design-ga-free-plans-oct08",
-            "title": "Claude Docs, Slides e Design saem do beta — disponíveis em todos os planos incluindo Free; Enterprise default ativado em 15/out; claude.ai/design mantido até 14/dez para migração de design systems",
-            "published_date": "2026-10-08",
-            "url": "https://releasebot.io/updates/anthropic/claude"
-        },
-        {
-            "date_reported": "2026-10-13",
-            "id": "claude-google-workspace-public-beta-add-on-oct06",
-            "title": "Claude for Google Workspace beta público — add-on para Docs/Sheets/Slides em todos os planos pagos; connectors separados permitem criar/editar arquivos direto do chat Claude; admin Team/Enterprise deve habilitar",
-            "published_date": "2026-10-06",
-            "url": "https://claude.com/blog/claude-now-works-in-google-docs-sheets-and-slides"
-        },
-        {
-            "date_reported": "2026-10-12",
-            "id": "anthropic-cyber-mission-cidp-oss-scanner-oct08",
-            "title": "Anthropic Cyber Mission — Critical Infrastructure Defense Program com 11 parceiros (Accenture, Booz Allen, CrowdStrike, Deloitte, Dragos, Hitachi, Insane Cyber, Nozomi, Palo Alto, PwC, Rockwell) e OSS Scanner gratuito para projetos open-source",
-            "published_date": "2026-10-08",
-            "url": "https://www.anthropic.com/news"
-        },
-        {
-            "date_reported": "2026-10-12",
-            "id": "anthropic-usage-policy-2026-hardware-abuse-nov12",
-            "title": "Usage Policy 2026 atualizada — proibição de abuso a modelos Claude, regras para hardware físico controlado por agentes, campanhas enganosas consolidadas, armas/vigilância ampliadas; vigência 12 Nov",
-            "published_date": "2026-10-08",
-            "url": "https://aiweekly.co/alerts/anthropics-2026-policy-update-targets-agentic-hardware"
         }
     ]
 }
