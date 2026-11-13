@@ -1,6 +1,27 @@
 {
-    "last_run": "2026-11-12",
+    "last_run": "2026-11-13",
     "reported_items": [
+        {
+            "date_reported": "2026-11-13",
+            "id": "managed-agents-self-hosted-full-service-nov12",
+            "title": "Self-hosted Claude Managed Agents — serviço completo na própria infraestrutura (agentes, sessões e histórico); acesso via account team",
+            "published_date": "2026-11-12",
+            "url": "https://platform.claude.com/docs/en/release-notes/overview"
+        },
+        {
+            "date_reported": "2026-11-13",
+            "id": "claude-meetings-beta-team-enterprise-nov12",
+            "title": "Claude Meetings (beta) para Team/Enterprise — Claude entra no Google Meet como participante, faz notas e gera docs/whiteboards/slides",
+            "published_date": "2026-11-12",
+            "url": "https://support.claude.com/en/articles/12138966-release-notes"
+        },
+        {
+            "date_reported": "2026-11-13",
+            "id": "claude-code-2-1-323-code-mode-plugin-engines-nov12",
+            "title": "Claude Code 2.1.323 — Code Mode experimental (Claude escreve JS para chamar tools), engines[\"claude-code\"] em plugin.json, plugin validate checa hooks TypeScript, /security-review pede confirmação, ~195 fixes",
+            "published_date": "2026-11-12",
+            "url": "https://code.claude.com/docs/en/changelog"
+        },
         {
             "date_reported": "2026-11-11",
             "id": "anthropic-ipo-valuation-pushback-nov11",
@@ -399,20 +420,6 @@
             "title": "Claude Code 2.1.299 — idle compaction automático (>200K tokens, ~54min ocioso), CLAUDE_CODE_DISABLE_FILE_MENTIONS, fix MCP allow rules (mcp__a não faz mais match em a__b), /usage warnings, --disallow-tools em plugin eval",
             "published_date": "2026-10-14",
             "url": "https://code.claude.com/docs/en/changelog"
-        },
-        {
-            "date_reported": "2026-10-14",
-            "id": "anthropic-singapore-office-mou-oct14",
-            "title": "Anthropic abre escritório em Cingapura e assina MOU com governo de Cingapura — 5º escritório APAC, GIC como investidor Série G, foco em finserv e governo no SEA",
-            "published_date": "2026-10-14",
-            "url": "https://www.anthropic.com/news"
-        },
-        {
-            "date_reported": "2026-10-14",
-            "id": "google-gemini-4-argon-ga-broadly-available-oct13",
-            "title": "Google Gemini 4 Argon GA — disponível ao público via Gemini API/AI Studio/Antigravity; preço $2/$10/M até 30/nov (dobra para $4/$20 em dez); cache $0,10/M; #1 Vals Finance Agent v2; 87% Embodied Reasoning",
-            "published_date": "2026-10-13",
-            "url": "https://venturebeat.com/technology/google-makes-gemini-4-argon-broadly-available-with-limited-time-low-api-pricing-of-2-10-per-1m-token"
         }
     ]
 }
